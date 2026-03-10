@@ -38,7 +38,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"10,000 Reasons (Bless the Lord O My Soul)\") differs from folder name (\"10,000 Reasons (Bless The Lord)\")"
@@ -71,7 +71,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -112,7 +112,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Abide With Me (Eventide)\") differs from folder name (\"Abide With Me\")"
@@ -191,7 +191,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -207,7 +207,7 @@
       "copyright": "",
       "isPublicDomain": true,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 V3",
+      "verseOrder": "V1 C1 V2 C2 V3",
       "sheets": [
         {
           "filePath": "allForJesusAllForJesus-chords-D.pdf",
@@ -221,7 +221,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -262,9 +262,7 @@
           "isPrimary": false
         }
       ],
-      "tags": [
-        "advent"
-      ],
+      "tags": [],
       "status": "pending",
       "flags": [],
       "extractionNotes": [
@@ -331,10 +329,8 @@
           "isPrimary": false
         }
       ],
-      "tags": [
-        "kids"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -376,7 +372,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -407,9 +403,9 @@
         }
       ],
       "tags": [
-        "easter"
+        "good-friday"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -490,9 +486,10 @@
         }
       ],
       "tags": [
-        "advent"
+        "advent",
+        "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -573,7 +570,7 @@
         "advent",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -606,10 +603,9 @@
       ],
       "tags": [
         "advent",
-        "epiphany",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -686,7 +682,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -718,7 +714,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Beloved Let Us Love One Another (1 John 4:7-8)\") differs from folder name (\"Beloved Let Us Love One Another\")"
@@ -736,7 +732,7 @@
       "copyright": "© 1995 Thankyou Music Ltd",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C C",
+      "verseOrder": "V1 C V2 C B C",
       "sheets": [
         {
           "filePath": "betterIsOneDay-chords-E-orig.pdf",
@@ -760,7 +756,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
