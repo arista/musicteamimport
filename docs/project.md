@@ -47,3 +47,20 @@ Where I hope that Claude Code can help:
 
 NOTE - although claude will have access to those other directories, it should not modify anything in those directories.  Any work it does should be put into this repo.
 
+## Tags
+
+MusicTeam has a notion of tags.  The tags that I'm looking for are:
+
+* kids
+* advent
+* christmas
+* palm sunday
+* good friday
+* easter
+* pentecost
+* epiphany
+
+The best way to figure these out is to look at the list of songs for each week, which is perhaps easiest to do by looking at the cbcWorshipSetLyrics-... file for the appropriate weeks.  The songs that were used for children's songs can be "kids".  Others can be candidates for the other ones depending on the date, but that will require some judgement.
+
+
+I believe tags can also be placed at the song version level.  I need to remember to add the "nathan" tag to each of the song versions I upload, to keep track of which versions I've used in the past.

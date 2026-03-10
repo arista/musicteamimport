@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "extract": "npx tsx scripts/extract.ts"
+    "extract": "npx tsx scripts/extract.ts",
+    "apply-tags": "npx tsx scripts/apply-tags.ts"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",

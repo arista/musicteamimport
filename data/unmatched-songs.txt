@@ -1,0 +1,52 @@
+# Songs referenced in setlists but not found in library
+# Generated: 2026-03-10T19:12:32.315Z
+# Count: 48
+
+Ancient of Days
+Arise, My Soul Arise
+Be Still My Soul
+Before the Throne of God Above
+Channels Only
+Christ is Risen From the Dead
+Come Let Us Worship and Bow Down
+Cornerstone ("My Hope is Built")
+Did You Feel the Mountains Tremble?
+Endless Praise
+Go to Dark Gethsemane
+God Who Saves
+Good Christian Friends, Rejoice
+Grace Greater than Our Sin (Hymn 472)
+Great Are Your Works Lord
+Great and Awesome God
+Have Thine Own Way, Lord (hymn 584)
+He Is Faithful
+He Knows My Name
+Here from All Nations (hymn 680, tune of Londonderry air, aka "O Danny Boy")
+If You Say Go
+Jesus Shall Reign
+Jesus With Thy Church Abide
+Let Your Glory Fall
+Let Your Kingdom Come
+Living for Jesus a Life That Is True (hymn #569)
+Lord Let Your Glory Fall
+Lord Most High
+Made Me Glad
+My Hope is in the Lord
+New Doxology
+None But Jesus
+Offering (Christmas version)
+Our Great Savior (Jesus, What a Friend for Sinners)
+Overcome
+Sweet Hour of Prayer
+The Lord is Gracious and Compassionate
+To a Virgin Meek and Mild
+We Are God's People
+We Believe
+We Bow Down (and worship You Lord)
+When Trials Come
+You Are Good
+You Deserve the Glory
+You'll Come
+You're Worthy of My Praise
+Your Love Never Fails
+Your Love O Lord
