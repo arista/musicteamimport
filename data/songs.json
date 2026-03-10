@@ -1,5 +1,5 @@
 {
-  "extractedAt": "2026-03-10T19:17:09.633Z",
+  "extractedAt": "2026-03-10T19:24:27.346Z",
   "songsDir": "sheets",
   "songs": [
     {
@@ -2756,7 +2756,7 @@
         }
       ],
       "tags": [
-        "palm sunday"
+        "palm-sunday"
       ],
       "status": "pending",
       "flags": [],
@@ -2877,7 +2877,7 @@
       ],
       "tags": [
         "advent",
-        "palm sunday"
+        "palm-sunday"
       ],
       "status": "pending",
       "flags": [],
@@ -2915,7 +2915,7 @@
         }
       ],
       "tags": [
-        "good friday"
+        "good-friday"
       ],
       "status": "pending",
       "flags": [],
@@ -3342,7 +3342,7 @@
         }
       ],
       "tags": [
-        "good friday",
+        "good-friday",
         "kids"
       ],
       "status": "pending",
@@ -3513,7 +3513,7 @@
         "advent",
         "easter",
         "epiphany",
-        "good friday"
+        "good-friday"
       ],
       "status": "pending",
       "flags": [],
@@ -3790,7 +3790,7 @@
         }
       ],
       "tags": [
-        "good friday",
+        "good-friday",
         "kids"
       ],
       "status": "flagged",
@@ -3930,7 +3930,7 @@
       ],
       "tags": [
         "advent",
-        "palm sunday"
+        "palm-sunday"
       ],
       "status": "pending",
       "flags": [],
@@ -4163,7 +4163,7 @@
         }
       ],
       "tags": [
-        "good friday"
+        "good-friday"
       ],
       "status": "pending",
       "flags": [],
@@ -5764,7 +5764,7 @@
       ],
       "tags": [
         "kids",
-        "palm sunday"
+        "palm-sunday"
       ],
       "status": "pending",
       "flags": [],
@@ -6233,7 +6233,7 @@
         }
       ],
       "tags": [
-        "palm sunday"
+        "palm-sunday"
       ],
       "status": "pending",
       "flags": [],
@@ -6827,7 +6827,7 @@
         }
       ],
       "tags": [
-        "good friday"
+        "good-friday"
       ],
       "status": "pending",
       "flags": [],
@@ -7016,7 +7016,7 @@
       ],
       "tags": [
         "easter",
-        "palm sunday"
+        "palm-sunday"
       ],
       "status": "pending",
       "flags": [],
@@ -7549,7 +7549,7 @@
         }
       ],
       "tags": [
-        "good friday"
+        "good-friday"
       ],
       "status": "pending",
       "flags": [],
@@ -7846,7 +7846,7 @@
         }
       ],
       "tags": [
-        "good friday"
+        "good-friday"
       ],
       "status": "pending",
       "flags": [],
@@ -7926,7 +7926,7 @@
         }
       ],
       "tags": [
-        "good friday"
+        "good-friday"
       ],
       "status": "flagged",
       "flags": [

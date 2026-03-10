@@ -54,8 +54,8 @@ MusicTeam has a notion of tags.  The tags that I'm looking for are:
 * kids
 * advent
 * christmas
-* palm sunday
-* good friday
+* palm-sunday
+* good-friday
 * easter
 * pentecost
 * epiphany

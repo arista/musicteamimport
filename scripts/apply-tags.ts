@@ -88,12 +88,12 @@ function getLiturgicalTag(dateStr: string): string | null {
 
   // Palm Sunday: 7 days before Easter
   if (daysFromEaster >= -7 && daysFromEaster <= -7) {
-    return "palm sunday";
+    return "palm-sunday";
   }
 
   // Good Friday: 2 days before Easter
   if (daysFromEaster >= -2 && daysFromEaster <= -2) {
-    return "good friday";
+    return "good-friday";
   }
 
   // Easter: Easter Sunday
