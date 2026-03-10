@@ -1,0 +1,13 @@
+{
+  "name": "musicteamimport",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "extract": "npx tsx scripts/extract.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

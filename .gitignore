@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Claude
+.claude/
+
+# Output data (can be regenerated)
+data/songs.json
+data/setlists.json
+data/reconciliation.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# TypeScript build output
+dist/
+*.tsbuildinfo
