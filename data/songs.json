@@ -2071,10 +2071,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2152,7 +2150,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2229,9 +2227,10 @@
       ],
       "tags": [
         "advent",
+        "christmas",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2308,7 +2307,7 @@
       "copyright": "© 2021 Bethel Worship Publishing; Maverick City Publishing; 9t One Songs; Ariose Music; Capitol CMG Genesis; Capitol CMG Paragon; Inot Music; sixsteps Music; Sojka Songs",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C C",
+      "verseOrder": "V1 C V2 C B C",
       "sheets": [
         {
           "filePath": "godReallyLovesUs-B-chords-orig.pdf",
@@ -2332,7 +2331,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2372,9 +2371,10 @@
         }
       ],
       "tags": [
+        "advent",
         "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"God Rest Ye Merry, Gentlemen\") differs from folder name (\"God Rest Ye Merry Gentlemen\")"
@@ -2409,7 +2409,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2450,7 +2450,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2470,7 +2470,7 @@
       "copyright": "© 2018 Capitol CMG Paragon; Fellow Ships Music; So Essential Tunes; SHOUT! Music Publishing Australia; Bethel Music Publishing",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C C C E",
+      "verseOrder": "V1 C V2 C B B C C E",
       "sheets": [
         {
           "filePath": "goodnessOfGod-chords-Ab-orig.pdf",
@@ -2504,7 +2504,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2523,7 +2523,7 @@
       "copyright": "© 2019 Brandon Lake Music; Maverick City Publishing Worldwide; Music by Elevation Worship Publishing; Bethel Music Publishing",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C C E",
+      "verseOrder": "V1 C V2 C B1 B2 C B1 B2 E",
       "sheets": [
         {
           "filePath": "gravesIntoGardens-chords-C-orig.pdf",
@@ -2557,7 +2557,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2599,7 +2599,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2632,7 +2632,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2709,7 +2709,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2845,11 +2845,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent",
-        "pentecost"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2888,10 +2885,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
