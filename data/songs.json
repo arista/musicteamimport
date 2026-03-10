@@ -1,5 +1,5 @@
 {
-  "extractedAt": "2026-03-10T19:10:04.288Z",
+  "extractedAt": "2026-03-10T19:17:09.633Z",
   "songsDir": "sheets",
   "songs": [
     {
@@ -8269,8 +8269,6 @@
   "extractionNotes": [
     "Extracted 216 songs with 400 sheets",
     "60 songs flagged for review",
-    "Applied tags from 226 setlist files",
-    "48 songs from setlists could not be matched",
     "Applied tags from 226 setlist files",
     "48 songs from setlists could not be matched"
   ]
