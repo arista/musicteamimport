@@ -773,7 +773,7 @@
       "copyright": "© Words: Public Domain; Music: Public Domain",
       "isPublicDomain": true,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C V3 C",
+      "verseOrder": "V1 C V2 C V3 C C",
       "sheets": [
         {
           "filePath": "blessed-assurance-A-lead-orig.pdf",
@@ -816,10 +816,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -860,7 +858,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -938,7 +936,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -958,7 +956,7 @@
       "copyright": "© 2016 Kaple Music (Admin. by Bethel Music Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 C V2 C B B C B",
+      "verseOrder": "V1 V2 C V2 C C B B C B",
       "sheets": [
         {
           "filePath": "build-my-life-E-orig.pdf",
@@ -982,7 +980,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1034,7 +1032,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1063,8 +1061,11 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "easter",
+        "kids"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1093,8 +1094,11 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "easter",
+        "kids"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Celebrate Jesus\") differs from folder name (\"Celebrate Jesus (easier)\")"
@@ -1125,8 +1129,10 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "easter"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Christ Arose!\") differs from folder name (\"Christ Arose\")"
@@ -1200,7 +1206,7 @@
           "key": "D",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 38978,
           "isPrimary": true
         },
@@ -1216,7 +1222,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1249,7 +1255,7 @@
       "tags": [
         "easter"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1269,7 +1275,7 @@
       "copyright": "© 2020 JMILLER MUSIC (Admin. by Amplified Administration LLC)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 C V3 C B B C C E B E",
+      "verseOrder": "V1 V2 C V3 C B B C C T B E",
       "sheets": [
         {
           "filePath": "christ-you-came-for-all-G-orig.pdf",
@@ -1293,7 +1299,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1410,7 +1416,7 @@
       "tags": [
         "advent"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1440,7 +1446,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1529,8 +1535,10 @@
           "isPrimary": false
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "advent"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Come Thou Long-Expected Jesus\") differs from folder name (\"Come Thou Long Expected Jesus (extra ending)\")"
@@ -1562,7 +1570,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1676,7 +1684,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 34008,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "crownHimWithManyCrowns-vocal-D-orig.pdf",
@@ -1706,11 +1714,11 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 68384,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: crownHimWithManyCrowns_C.odt"
@@ -1797,7 +1805,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1838,7 +1846,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~",
@@ -1927,7 +1935,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1959,7 +1967,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -1991,7 +1999,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2024,7 +2032,7 @@
       "tags": [
         "pentecost"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
