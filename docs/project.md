@@ -64,3 +64,21 @@ The best way to figure these out is to look at the list of songs for each week, 
 
 
 I believe tags can also be placed at the song version level.  I need to remember to add the "nathan" tag to each of the song versions I upload, to keep track of which versions I've used in the past.
+
+## Sheet Types
+
+Sheet types should be one of the following:
+
+* Chord
+* Lead
+* Vocal
+* Hymn
+* Other
+
+Can also be a free-form field if Other is selected.
+
+If a filename has "-orig" or "-original" in it, and there's a similarly-named file but without the "orig", then those should both be considered the same sheet type ("Chord" for example).  The "orig" one however does not already include verse order, while the non-"orig" version does have the verse order written over it already on the PDF.
+
+So we shouldn't have an "Original" sheet type.  But we do need to add a flag to sheets indicating if they includeVerseOrder or not - those that are "original" should be false, otherwise true.  And this flag needs to be editable in the verification app.
+
+

@@ -1,5 +1,5 @@
 {
-  "extractedAt": "2026-03-10T19:24:27.346Z",
+  "extractedAt": "2026-03-10T19:58:44.756Z",
   "songsDir": "sheets",
   "songs": [
     {
@@ -20,7 +20,9 @@
           "filePath": "10-000-reasons-bless-the-lord-D-orig.pdf",
           "fileName": "10-000-reasons-bless-the-lord-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 40348,
           "isPrimary": false
         },
@@ -28,7 +30,9 @@
           "filePath": "10-000-reasons-bless-the-lord-D.pdf",
           "fileName": "10-000-reasons-bless-the-lord-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 44830,
           "isPrimary": true
         }
@@ -59,7 +63,9 @@
           "filePath": "AMightyFortressIsOurGod-A-chords.pdf",
           "fileName": "AMightyFortressIsOurGod-A-chords.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69798,
           "isPrimary": true
         }
@@ -89,6 +95,8 @@
           "fileName": "abideWithMe-vocal-Eb-small.pdf",
           "key": "Eb",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 114611,
           "isPrimary": true
         },
@@ -97,6 +105,8 @@
           "fileName": "abideWithMe-vocal-Eb.pdf",
           "key": "Eb",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 119292,
           "isPrimary": false
         }
@@ -126,7 +136,9 @@
           "filePath": "alive-in-us-G-orig.pdf",
           "fileName": "alive-in-us-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 38417,
           "isPrimary": false
         },
@@ -134,7 +146,9 @@
           "filePath": "alive-in-us-G.pdf",
           "fileName": "alive-in-us-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36930,
           "isPrimary": true
         }
@@ -169,7 +183,9 @@
           "filePath": "allCreaturesOfOurGodAndKing-C-chords.pdf",
           "fileName": "allCreaturesOfOurGodAndKing-C-chords.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68132,
           "isPrimary": true
         }
@@ -197,7 +213,9 @@
           "filePath": "allForJesusAllForJesus-chords-D.pdf",
           "fileName": "allForJesusAllForJesus-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65435,
           "isPrimary": true
         }
@@ -227,7 +245,9 @@
           "filePath": "allHailThePowerOfJesusName-D.pdf",
           "fileName": "allHailThePowerOfJesusName-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69716,
           "isPrimary": true
         },
@@ -235,7 +255,9 @@
           "filePath": "allHailThePowerOfJesusName-E.pdf",
           "fileName": "allHailThePowerOfJesusName-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69713,
           "isPrimary": false
         }
@@ -292,7 +314,9 @@
           "filePath": "amazingGrace-chords-F.pdf",
           "fileName": "amazingGrace-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69064,
           "isPrimary": true
         },
@@ -300,7 +324,9 @@
           "filePath": "amazingGrace-chords-G.pdf",
           "fileName": "amazingGrace-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69089,
           "isPrimary": false
         }
@@ -332,7 +358,9 @@
           "filePath": "amazing-grace-my-chains-are-gone-D-orig.pdf",
           "fileName": "amazing-grace-my-chains-are-gone-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37906,
           "isPrimary": false
         },
@@ -340,7 +368,9 @@
           "filePath": "amazing-grace-my-chains-are-gone-D.pdf",
           "fileName": "amazing-grace-my-chains-are-gone-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35919,
           "isPrimary": true
         }
@@ -369,7 +399,9 @@
           "filePath": "AndCanItBeChords-E.pdf",
           "fileName": "AndCanItBeChords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67038,
           "isPrimary": true
         }
@@ -400,7 +432,9 @@
           "filePath": "angels-we-have-heard-on-high-F-orig.pdf",
           "fileName": "angels-we-have-heard-on-high-F-orig.pdf",
           "key": "F",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 172376,
           "isPrimary": false
         },
@@ -408,7 +442,9 @@
           "filePath": "angels-we-have-heard-on-high-chords-Eb.pdf",
           "fileName": "angels-we-have-heard-on-high-chords-Eb.pdf",
           "key": "Eb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 102749,
           "isPrimary": true
         },
@@ -416,7 +452,9 @@
           "filePath": "angels-we-have-heard-on-high-hymnal-F.pdf",
           "fileName": "angels-we-have-heard-on-high-hymnal-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Hymn",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 891201,
           "isPrimary": false
         },
@@ -424,7 +462,9 @@
           "filePath": "angels-we-have-heard-on-high-lead-Eb.pdf",
           "fileName": "angels-we-have-heard-on-high-lead-Eb.pdf",
           "key": "Eb",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 93375,
           "isPrimary": false
         },
@@ -432,7 +472,9 @@
           "filePath": "angelsWeHaveHeardOnHigh-tomlin-chords-D.pdf",
           "fileName": "angelsWeHaveHeardOnHigh-tomlin-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 86346,
           "isPrimary": false
         },
@@ -440,7 +482,9 @@
           "filePath": "angelsWeHaveHeardOnHigh-tomlin-chords-F.pdf",
           "fileName": "angelsWeHaveHeardOnHigh-tomlin-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84915,
           "isPrimary": false
         }
@@ -470,7 +514,9 @@
           "filePath": "asWithGladnessMenOfOld-lead-F.pdf",
           "fileName": "asWithGladnessMenOfOld-lead-F.pdf",
           "key": "F",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 83829,
           "isPrimary": false
         },
@@ -478,7 +524,9 @@
           "filePath": "asWithGladnessMenOfOld.pdf",
           "fileName": "asWithGladnessMenOfOld.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68447,
           "isPrimary": true
         }
@@ -514,7 +562,9 @@
           "filePath": "awayInAManger-lead-F.pdf",
           "fileName": "awayInAManger-lead-F.pdf",
           "key": "F",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 85041,
           "isPrimary": true
         }
@@ -547,7 +597,9 @@
           "filePath": "awayInAManger_cradleSong_lead_E.pdf",
           "fileName": "awayInAManger_cradleSong_lead_E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 176885,
           "isPrimary": true
         }
@@ -577,7 +629,9 @@
           "filePath": "BeKindToOneAnother-E.pdf",
           "fileName": "BeKindToOneAnother-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 80325,
           "isPrimary": true
         }
@@ -614,7 +668,9 @@
           "filePath": "BeThouMyVision-chords-C.pdf",
           "fileName": "BeThouMyVision-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84088,
           "isPrimary": true
         },
@@ -623,6 +679,8 @@
           "fileName": "be-thou-my-vision-slane-vocal-C.pdf",
           "key": "Bb",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 92640,
           "isPrimary": false
         }
@@ -650,7 +708,9 @@
           "filePath": "beloved-D.pdf",
           "fileName": "beloved-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 129662,
           "isPrimary": true
         }
@@ -682,7 +742,9 @@
           "filePath": "betterIsOneDay-chords-E-orig.pdf",
           "fileName": "betterIsOneDay-chords-E-orig.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 94466,
           "isPrimary": false
         },
@@ -690,7 +752,9 @@
           "filePath": "betterIsOneDay-chords-E.pdf",
           "fileName": "betterIsOneDay-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 86063,
           "isPrimary": true
         }
@@ -719,7 +783,9 @@
           "filePath": "blessed-assurance-A-lead-orig.pdf",
           "fileName": "blessed-assurance-A-lead-orig.pdf",
           "key": "A",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 211016,
           "isPrimary": false
         },
@@ -727,7 +793,9 @@
           "filePath": "blessed-assurance-A-orig.pdf",
           "fileName": "blessed-assurance-A-orig.pdf",
           "key": "A",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31978,
           "isPrimary": false
         },
@@ -736,6 +804,8 @@
           "fileName": "blessed-assurance-A-vocal.pdf",
           "key": "A",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 114858,
           "isPrimary": false
         },
@@ -743,7 +813,9 @@
           "filePath": "blessed-assurance-A.pdf",
           "fileName": "blessed-assurance-A.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31438,
           "isPrimary": true
         }
@@ -774,7 +846,9 @@
           "filePath": "blessed-be-your-name-A-orig.pdf",
           "fileName": "blessed-be-your-name-A-orig.pdf",
           "key": "Bb",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37197,
           "isPrimary": false
         },
@@ -782,7 +856,9 @@
           "filePath": "blessed-be-your-name-A.pdf",
           "fileName": "blessed-be-your-name-A.pdf",
           "key": "Bb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36510,
           "isPrimary": true
         }
@@ -810,7 +886,9 @@
           "filePath": "bornToBringUsJoy-C-simplified.pdf",
           "fileName": "bornToBringUsJoy-C-simplified.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 93988,
           "isPrimary": true
         },
@@ -818,7 +896,9 @@
           "filePath": "bornToBringUsJoy-C.pdf",
           "fileName": "bornToBringUsJoy-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 113579,
           "isPrimary": false
         }
@@ -854,7 +934,9 @@
           "filePath": "BreatheOnMeBreathOfGod-E.pdf",
           "fileName": "BreatheOnMeBreathOfGod-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63432,
           "isPrimary": true
         }
@@ -886,7 +968,9 @@
           "filePath": "build-my-life-E-orig.pdf",
           "fileName": "build-my-life-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 36795,
           "isPrimary": false
         },
@@ -894,7 +978,9 @@
           "filePath": "build-my-life-E.pdf",
           "fileName": "build-my-life-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35604,
           "isPrimary": true
         }
@@ -924,7 +1010,9 @@
           "filePath": "build-your-kingdom-here-C-leadSheet.pdf",
           "fileName": "build-your-kingdom-here-C-leadSheet.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 482674,
           "isPrimary": false
         },
@@ -932,7 +1020,9 @@
           "filePath": "build-your-kingdom-here-C-orig.pdf",
           "fileName": "build-your-kingdom-here-C-orig.pdf",
           "key": "C",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 35404,
           "isPrimary": false
         },
@@ -940,7 +1030,9 @@
           "filePath": "build-your-kingdom-here-C.pdf",
           "fileName": "build-your-kingdom-here-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34726,
           "isPrimary": true
         }
@@ -968,7 +1060,9 @@
           "filePath": "celebrateJesus-kids-chords-Eb.pdf",
           "fileName": "celebrateJesus-kids-chords-Eb.pdf",
           "key": "Eb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 64465,
           "isPrimary": true
         }
@@ -996,7 +1090,9 @@
           "filePath": "celebrateJesus-kids-chords-D.pdf",
           "fileName": "celebrateJesus-kids-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63924,
           "isPrimary": true
         }
@@ -1026,7 +1122,9 @@
           "filePath": "christArose-chords-G.pdf",
           "fileName": "christArose-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65559,
           "isPrimary": true
         }
@@ -1056,7 +1154,9 @@
           "filePath": "christIsAllInAll-chords-G-orig.pdf",
           "fileName": "christIsAllInAll-chords-G-orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 73311,
           "isPrimary": false
         },
@@ -1064,7 +1164,9 @@
           "filePath": "christIsAllInAll-chords-G.pdf",
           "fileName": "christIsAllInAll-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 74244,
           "isPrimary": true
         }
@@ -1100,7 +1202,9 @@
           "filePath": "christ-our-hope-in-life-and-death-chords-D.pdf",
           "fileName": "christ-our-hope-in-life-and-death-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 38978,
           "isPrimary": true
         },
@@ -1108,7 +1212,9 @@
           "filePath": "christ-our-hope-in-life-and-death-lead-D.pdf",
           "fileName": "christ-our-hope-in-life-and-death-lead-D.pdf",
           "key": "D",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 165538,
           "isPrimary": false
         }
@@ -1137,7 +1243,9 @@
           "filePath": "christTheLordIsRisenToday-chords-A.pdf",
           "fileName": "christTheLordIsRisenToday-chords-A.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67787,
           "isPrimary": true
         }
@@ -1171,7 +1279,9 @@
           "filePath": "christ-you-came-for-all-G-orig.pdf",
           "fileName": "christ-you-came-for-all-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37564,
           "isPrimary": false
         },
@@ -1179,7 +1289,9 @@
           "filePath": "christ-you-came-for-all-G.pdf",
           "fileName": "christ-you-came-for-all-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 37836,
           "isPrimary": true
         }
@@ -1207,7 +1319,9 @@
           "filePath": "christWhoseGloryFillsTheSkies.pdf",
           "fileName": "christWhoseGloryFillsTheSkies.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65837,
           "isPrimary": true
         }
@@ -1242,7 +1356,9 @@
           "filePath": "christmas-offering-D-orig.pdf",
           "fileName": "christmas-offering-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 401572,
           "isPrimary": true
         }
@@ -1278,7 +1394,9 @@
           "filePath": "come-as-you-are-A-orig.pdf",
           "fileName": "come-as-you-are-A-orig.pdf",
           "key": "Ab",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 39133,
           "isPrimary": false
         },
@@ -1286,7 +1404,9 @@
           "filePath": "come-as-you-are-A.pdf",
           "fileName": "come-as-you-are-A.pdf",
           "key": "Ab",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 38667,
           "isPrimary": true
         }
@@ -1316,7 +1436,9 @@
           "filePath": "comeThouAlmightyKing-C.pdf",
           "fileName": "comeThouAlmightyKing-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 82928,
           "isPrimary": true
         }
@@ -1345,7 +1467,9 @@
           "filePath": "come-thou-long-expected-jesus-simplified-chords.pdf",
           "fileName": "come-thou-long-expected-jesus-simplified-chords.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 83833,
           "isPrimary": true
         },
@@ -1354,6 +1478,8 @@
           "fileName": "come-thou-long-expected-jesus-vocal-D.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 112577,
           "isPrimary": false
         }
@@ -1390,7 +1516,9 @@
           "filePath": "come-thou-long-expected-jesus-simplified-chords-D.pdf",
           "fileName": "come-thou-long-expected-jesus-simplified-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 83731,
           "isPrimary": true
         },
@@ -1399,6 +1527,8 @@
           "fileName": "come-thou-long-expected-jesus-vocal-D.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 112577,
           "isPrimary": false
         }
@@ -1428,7 +1558,9 @@
           "filePath": "ComeYeSinners-chords-D.pdf",
           "fileName": "ComeYeSinners-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66931,
           "isPrimary": true
         }
@@ -1457,7 +1589,9 @@
           "filePath": "comeThouFountOfEveryBlessing.pdf",
           "fileName": "comeThouFountOfEveryBlessing.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67938,
           "isPrimary": true
         }
@@ -1487,7 +1621,9 @@
           "filePath": "cornerstone-D-orig.pdf",
           "fileName": "cornerstone-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 97844,
           "isPrimary": false
         },
@@ -1495,7 +1631,9 @@
           "filePath": "cornerstone-D-pluralized.pdf",
           "fileName": "cornerstone-D-pluralized.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 97354,
           "isPrimary": true
         }
@@ -1528,7 +1666,9 @@
           "filePath": "crownHimWithManyCrowns-chords-D-orig.pdf",
           "fileName": "crownHimWithManyCrowns-chords-D-orig.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 35593,
           "isPrimary": false
         },
@@ -1536,7 +1676,9 @@
           "filePath": "crownHimWithManyCrowns-chords-D.pdf",
           "fileName": "crownHimWithManyCrowns-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34008,
           "isPrimary": true
         },
@@ -1545,6 +1687,8 @@
           "fileName": "crownHimWithManyCrowns-vocal-D-orig.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 105705,
           "isPrimary": false
         },
@@ -1553,6 +1697,8 @@
           "fileName": "crownHimWithManyCrowns-vocal-D.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 103330,
           "isPrimary": false
         },
@@ -1560,7 +1706,9 @@
           "filePath": "crownHimWithManyCrowns_C.pdf",
           "fileName": "crownHimWithManyCrowns_C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68384,
           "isPrimary": false
         }
@@ -1590,7 +1738,9 @@
           "filePath": "do-it-again-E-orig.pdf",
           "fileName": "do-it-again-E-orig.pdf",
           "key": "Db",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 38417,
           "isPrimary": false
         },
@@ -1598,7 +1748,9 @@
           "filePath": "do-it-again-E.pdf",
           "fileName": "do-it-again-E.pdf",
           "key": "Db",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 37710,
           "isPrimary": true
         }
@@ -1631,7 +1783,9 @@
           "filePath": "enough-chords-E.pdf",
           "fileName": "enough-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 78961,
           "isPrimary": true
         },
@@ -1639,7 +1793,9 @@
           "filePath": "enough-chords-orig-E.pdf",
           "fileName": "enough-chords-orig-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 87006,
           "isPrimary": false
         }
@@ -1668,7 +1824,9 @@
           "filePath": "everlasting-god_chords_G.pdf",
           "fileName": "everlasting-god_chords_G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35137,
           "isPrimary": true
         },
@@ -1676,7 +1834,9 @@
           "filePath": "everlasting-god_chords_G_orig.pdf",
           "fileName": "everlasting-god_chords_G_orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35950,
           "isPrimary": false
         }
@@ -1707,7 +1867,9 @@
           "filePath": "every-praise-Db-orig.pdf",
           "fileName": "every-praise-Db-orig.pdf",
           "key": "Db",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34161,
           "isPrimary": false
         },
@@ -1715,7 +1877,9 @@
           "filePath": "every-praise-Db.pdf",
           "fileName": "every-praise-Db.pdf",
           "key": "Db",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 46322,
           "isPrimary": true
         }
@@ -1749,7 +1913,9 @@
           "filePath": "fatherSpiritJesus-chords-G-orig.pdf",
           "fileName": "fatherSpiritJesus-chords-G-orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 99505,
           "isPrimary": false
         },
@@ -1757,7 +1923,9 @@
           "filePath": "fatherSpiritJesus-chords-G.pdf",
           "fileName": "fatherSpiritJesus-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 91133,
           "isPrimary": true
         }
@@ -1785,7 +1953,9 @@
           "filePath": "FishersOfMen-chords-C.pdf",
           "fileName": "FishersOfMen-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 60399,
           "isPrimary": true
         }
@@ -1815,7 +1985,9 @@
           "filePath": "forGodSoLovedTheWorld-F-chords.pdf",
           "fileName": "forGodSoLovedTheWorld-F-chords.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 62513,
           "isPrimary": true
         }
@@ -1846,7 +2018,9 @@
           "filePath": "ForYourGiftOfGodTheSpirit_C_chords.pdf",
           "fileName": "ForYourGiftOfGodTheSpirit_C_chords.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 71464,
           "isPrimary": true
         }
@@ -1876,7 +2050,9 @@
           "filePath": "forever-E-orig.pdf",
           "fileName": "forever-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 35176,
           "isPrimary": false
         },
@@ -1884,7 +2060,9 @@
           "filePath": "forever-E.pdf",
           "fileName": "forever-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34297,
           "isPrimary": true
         }
@@ -1912,7 +2090,9 @@
           "filePath": "forgiveOneAnother-chords-Eb.pdf",
           "fileName": "forgiveOneAnother-chords-Eb.pdf",
           "key": "Eb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66290,
           "isPrimary": true
         }
@@ -1948,7 +2128,9 @@
           "filePath": "fruitOfTheSpirit-chords-D.pdf",
           "fileName": "fruitOfTheSpirit-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66601,
           "isPrimary": true
         },
@@ -1956,7 +2138,9 @@
           "filePath": "fruitOfTheSpirit-lead-D.pdf",
           "fileName": "fruitOfTheSpirit-lead-D.pdf",
           "key": "D",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 113212,
           "isPrimary": false
         }
@@ -1986,7 +2170,9 @@
           "filePath": "GiveThanks-D.pdf",
           "fileName": "GiveThanks-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 64121,
           "isPrimary": true
         }
@@ -2020,7 +2206,9 @@
           "filePath": "go-tell-it-on-the-mountain-E-orig.pdf",
           "fileName": "go-tell-it-on-the-mountain-E-orig.pdf",
           "key": "Gb",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32012,
           "isPrimary": false
         },
@@ -2028,7 +2216,9 @@
           "filePath": "go-tell-it-on-the-mountain-E.pdf",
           "fileName": "go-tell-it-on-the-mountain-E.pdf",
           "key": "Gb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31473,
           "isPrimary": true
         }
@@ -2059,7 +2249,9 @@
           "filePath": "godOfGraceAndGodOfGlory-menAndWomen.pdf",
           "fileName": "godOfGraceAndGodOfGlory-menAndWomen.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67624,
           "isPrimary": true
         },
@@ -2067,7 +2259,9 @@
           "filePath": "godOfGraceAndGodOfGlory-setAllFree.pdf",
           "fileName": "godOfGraceAndGodOfGlory-setAllFree.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67630,
           "isPrimary": false
         },
@@ -2075,7 +2269,9 @@
           "filePath": "godOfGraceAndGodOfGlory.pdf",
           "fileName": "godOfGraceAndGodOfGlory.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67608,
           "isPrimary": false
         }
@@ -2114,7 +2310,9 @@
           "filePath": "godReallyLovesUs-B-chords-orig.pdf",
           "fileName": "godReallyLovesUs-B-chords-orig.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 102956,
           "isPrimary": false
         },
@@ -2122,7 +2320,9 @@
           "filePath": "godReallyLovesUs-B-chords.pdf",
           "fileName": "godReallyLovesUs-B-chords.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 94992,
           "isPrimary": true
         }
@@ -2150,7 +2350,9 @@
           "filePath": "godRestYeMerryGentlemen-Bm-chords.pdf",
           "fileName": "godRestYeMerryGentlemen-Bm-chords.pdf",
           "key": "Bm",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69888,
           "isPrimary": true
         },
@@ -2159,6 +2361,8 @@
           "fileName": "godRestYeMerryGentlemen-Bm-vocal.pdf",
           "key": "Bm",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 142915,
           "isPrimary": false
         }
@@ -2191,7 +2395,9 @@
           "filePath": "god-will-take-care-of-you-chords-A.pdf",
           "fileName": "god-will-take-care-of-you-chords-A.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31990,
           "isPrimary": true
         }
@@ -2222,7 +2428,9 @@
           "filePath": "goodGoodFather-E-chords-orig.pdf",
           "fileName": "goodGoodFather-E-chords-orig.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34842,
           "isPrimary": false
         },
@@ -2230,7 +2438,9 @@
           "filePath": "goodGoodFather-E-chords.pdf",
           "fileName": "goodGoodFather-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34129,
           "isPrimary": true
         }
@@ -2262,7 +2472,9 @@
           "filePath": "goodnessOfGod-chords-Ab-orig.pdf",
           "fileName": "goodnessOfGod-chords-Ab-orig.pdf",
           "key": "Ab",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 91616,
           "isPrimary": false
         },
@@ -2270,7 +2482,9 @@
           "filePath": "goodnessOfGod-chords-Ab.pdf",
           "fileName": "goodnessOfGod-chords-Ab.pdf",
           "key": "Ab",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84742,
           "isPrimary": true
         },
@@ -2278,7 +2492,9 @@
           "filePath": "goodnessOfGod-lead-Ab.pdf",
           "fileName": "goodnessOfGod-lead-Ab.pdf",
           "key": "Ab",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 122473,
           "isPrimary": false
         }
@@ -2309,7 +2525,9 @@
           "filePath": "gravesIntoGardens-chords-C-orig.pdf",
           "fileName": "gravesIntoGardens-chords-C-orig.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 91789,
           "isPrimary": false
         },
@@ -2317,7 +2535,9 @@
           "filePath": "gravesIntoGardens-chords-C.pdf",
           "fileName": "gravesIntoGardens-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84816,
           "isPrimary": true
         },
@@ -2325,7 +2545,9 @@
           "filePath": "gravesIntoGardens-lead-C.pdf",
           "fileName": "gravesIntoGardens-lead-C.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 137172,
           "isPrimary": false
         }
@@ -2355,7 +2577,9 @@
           "filePath": "great-are-you-lord-E-orig.pdf",
           "fileName": "great-are-you-lord-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31994,
           "isPrimary": false
         },
@@ -2363,7 +2587,9 @@
           "filePath": "great-are-you-lord-E.pdf",
           "fileName": "great-are-you-lord-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31417,
           "isPrimary": true
         }
@@ -2392,7 +2618,9 @@
           "filePath": "greatBigGod-chords-D.pdf",
           "fileName": "greatBigGod-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 77901,
           "isPrimary": true
         }
@@ -2423,7 +2651,9 @@
           "filePath": "great-is-thy-faithfulness-chords-C.pdf",
           "fileName": "great-is-thy-faithfulness-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 80763,
           "isPrimary": true
         },
@@ -2431,7 +2661,9 @@
           "filePath": "great-is-thy-faithfulness.pdf",
           "fileName": "great-is-thy-faithfulness.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 80791,
           "isPrimary": false
         }
@@ -2465,7 +2697,9 @@
           "filePath": "guideMeOThouGreatJehovah-E-chords.pdf",
           "fileName": "guideMeOThouGreatJehovah-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67896,
           "isPrimary": true
         }
@@ -2495,6 +2729,8 @@
           "fileName": "hark-the-herald-angels-sing-vocal.pdf",
           "key": "unknown",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 116568,
           "isPrimary": false
         },
@@ -2502,7 +2738,9 @@
           "filePath": "hark-the-herald-angels-sing.pdf",
           "fileName": "hark-the-herald-angels-sing.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69365,
           "isPrimary": true
         }
@@ -2538,7 +2776,9 @@
           "filePath": "hesGotTheWholeWorldInHisHands-chords-C.pdf",
           "fileName": "hesGotTheWholeWorldInHisHands-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 64325,
           "isPrimary": true
         },
@@ -2546,7 +2786,9 @@
           "filePath": "hesGotTheWholeWorldInHisHands-chords-CCD.pdf",
           "fileName": "hesGotTheWholeWorldInHisHands-chords-CCD.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63517,
           "isPrimary": false
         }
@@ -2582,7 +2824,9 @@
           "filePath": "hear-the-call-of-the-kingdom-F-orig.pdf",
           "fileName": "hear-the-call-of-the-kingdom-F-orig.pdf",
           "key": "F",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32048,
           "isPrimary": false
         },
@@ -2590,7 +2834,9 @@
           "filePath": "hear-the-call-of-the-kingdom-F.pdf",
           "fileName": "hear-the-call-of-the-kingdom-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32017,
           "isPrimary": true
         }
@@ -2621,7 +2867,9 @@
           "filePath": "here-i-am-to-worship-F-orig.pdf",
           "fileName": "here-i-am-to-worship-F-orig.pdf",
           "key": "Am",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 36809,
           "isPrimary": false
         },
@@ -2629,7 +2877,9 @@
           "filePath": "here-i-am-to-worship-F.pdf",
           "fileName": "here-i-am-to-worship-F.pdf",
           "key": "Am",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35173,
           "isPrimary": true
         }
@@ -2660,7 +2910,9 @@
           "filePath": "holyGodWePraiseYourName-E-chords.pdf",
           "fileName": "holyGodWePraiseYourName-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 90721,
           "isPrimary": true
         },
@@ -2668,7 +2920,9 @@
           "filePath": "holyGodWePraiseYourName-F-chords.pdf",
           "fileName": "holyGodWePraiseYourName-F-chords.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 90255,
           "isPrimary": false
         }
@@ -2697,7 +2951,9 @@
           "filePath": "holyGodWePraiseYourName-E-chords.pdf",
           "fileName": "holyGodWePraiseYourName-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 93249,
           "isPrimary": true
         }
@@ -2726,7 +2982,9 @@
           "filePath": "holy-is-the-lord-E-orig.pdf",
           "fileName": "holy-is-the-lord-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 35282,
           "isPrimary": false
         },
@@ -2734,7 +2992,9 @@
           "filePath": "holy-is-the-lord-E.pdf",
           "fileName": "holy-is-the-lord-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 41358,
           "isPrimary": true
         },
@@ -2742,7 +3002,9 @@
           "filePath": "holy-is-the-lord-F-orig.pdf",
           "fileName": "holy-is-the-lord-F-orig.pdf",
           "key": "F",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 35563,
           "isPrimary": false
         },
@@ -2750,7 +3012,9 @@
           "filePath": "holy-is-the-lord-F.pdf",
           "fileName": "holy-is-the-lord-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35426,
           "isPrimary": false
         }
@@ -2781,7 +3045,9 @@
           "filePath": "holy-holy-holy.pdf",
           "fileName": "holy-holy-holy.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 82998,
           "isPrimary": true
         }
@@ -2817,7 +3083,9 @@
           "filePath": "Hosanna-chords-C-orig.pdf",
           "fileName": "Hosanna-chords-C-orig.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 92847,
           "isPrimary": false
         },
@@ -2825,7 +3093,9 @@
           "filePath": "Hosanna-chords-C.pdf",
           "fileName": "Hosanna-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 85513,
           "isPrimary": true
         },
@@ -2833,7 +3103,9 @@
           "filePath": "Hosanna-chords-E.pdf",
           "fileName": "Hosanna-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 93269,
           "isPrimary": false
         }
@@ -2862,7 +3134,9 @@
           "filePath": "hosanna-praise-is-rising-E-orig.pdf",
           "fileName": "hosanna-praise-is-rising-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37507,
           "isPrimary": false
         },
@@ -2870,7 +3144,9 @@
           "filePath": "hosanna-praise-is-rising-E.pdf",
           "fileName": "hosanna-praise-is-rising-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36049,
           "isPrimary": true
         }
@@ -2901,7 +3177,9 @@
           "filePath": "how-deep-the-fathers-love-for-us-F-orig.pdf",
           "fileName": "how-deep-the-fathers-love-for-us-F-orig.pdf",
           "key": "F",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 33940,
           "isPrimary": false
         },
@@ -2909,7 +3187,9 @@
           "filePath": "how-deep-the-fathers-love-for-us-F.pdf",
           "fileName": "how-deep-the-fathers-love-for-us-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33418,
           "isPrimary": true
         }
@@ -2937,7 +3217,9 @@
           "filePath": "how-firm-a-foundation-F-chords.pdf",
           "fileName": "how-firm-a-foundation-F-chords.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68355,
           "isPrimary": true
         }
@@ -2973,7 +3255,9 @@
           "filePath": "howGreatIsOurGod-chords-G-orig.pdf",
           "fileName": "howGreatIsOurGod-chords-G-orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 78628,
           "isPrimary": false
         },
@@ -2981,7 +3265,9 @@
           "filePath": "howGreatIsOurGod-chords-G.pdf",
           "fileName": "howGreatIsOurGod-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 73681,
           "isPrimary": true
         }
@@ -3014,7 +3300,9 @@
           "filePath": "howLongOLordHowLong-chords-c-orig.pdf",
           "fileName": "howLongOLordHowLong-chords-c-orig.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 64914,
           "isPrimary": false
         },
@@ -3022,7 +3310,9 @@
           "filePath": "howLongOLordHowLong-chords-c.pdf",
           "fileName": "howLongOLordHowLong-chords-c.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 62057,
           "isPrimary": true
         },
@@ -3030,7 +3320,9 @@
           "filePath": "howLongOLordHowLong-lead-c.pdf",
           "fileName": "howLongOLordHowLong-lead-c.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 131414,
           "isPrimary": false
         }
@@ -3060,7 +3352,9 @@
           "filePath": "I Am Thankful - primary.pdf",
           "fileName": "I Am Thankful - primary.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 104378,
           "isPrimary": true
         },
@@ -3068,7 +3362,9 @@
           "filePath": "I Am Thankful - simplified.pdf",
           "fileName": "I Am Thankful - simplified.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 75130,
           "isPrimary": false
         },
@@ -3076,7 +3372,9 @@
           "filePath": "I Am Thankful - studio (advanced).pdf",
           "fileName": "I Am Thankful - studio (advanced).pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 128170,
           "isPrimary": false
         },
@@ -3084,7 +3382,9 @@
           "filePath": "IAmThankful-chords-C.pdf",
           "fileName": "IAmThankful-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68456,
           "isPrimary": false
         }
@@ -3121,7 +3421,9 @@
           "filePath": "iCannotTell-A-chords-simplified.pdf",
           "fileName": "iCannotTell-A-chords-simplified.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69268,
           "isPrimary": true
         },
@@ -3129,7 +3431,9 @@
           "filePath": "iCannotTell-A-chords.pdf",
           "fileName": "iCannotTell-A-chords.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 37845,
           "isPrimary": false
         },
@@ -3138,6 +3442,8 @@
           "fileName": "iCannotTell-A-vocal.pdf",
           "key": "A",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 121695,
           "isPrimary": false
         }
@@ -3163,7 +3469,9 @@
           "filePath": "IHaveAFriendInJesus.pdf",
           "fileName": "IHaveAFriendInJesus.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67928,
           "isPrimary": true
         }
@@ -3202,7 +3510,9 @@
           "filePath": "IHaveDecidedToFollowJesus.pdf",
           "fileName": "IHaveDecidedToFollowJesus.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63246,
           "isPrimary": true
         }
@@ -3239,7 +3549,9 @@
           "filePath": "ISpeakJesus-chords-G-orig.pdf",
           "fileName": "ISpeakJesus-chords-G-orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 63952,
           "isPrimary": false
         },
@@ -3247,7 +3559,9 @@
           "filePath": "ISpeakJesus-chords-G.pdf",
           "fileName": "ISpeakJesus-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 61877,
           "isPrimary": true
         },
@@ -3255,7 +3569,9 @@
           "filePath": "ISpeakJesus-lead-G.pdf",
           "fileName": "ISpeakJesus-lead-G.pdf",
           "key": "G",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 132681,
           "isPrimary": false
         }
@@ -3283,7 +3599,9 @@
           "filePath": "i-stand-amazed-my-saviours-love-E-orig.pdf",
           "fileName": "i-stand-amazed-my-saviours-love-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32891,
           "isPrimary": false
         },
@@ -3291,7 +3609,9 @@
           "filePath": "i-stand-amazed-my-saviours-love-E.pdf",
           "fileName": "i-stand-amazed-my-saviours-love-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32494,
           "isPrimary": true
         }
@@ -3320,7 +3640,9 @@
           "filePath": "i-surrender-all-D-orig.pdf",
           "fileName": "i-surrender-all-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32966,
           "isPrimary": false
         },
@@ -3328,7 +3650,9 @@
           "filePath": "i-surrender-all-D.pdf",
           "fileName": "i-surrender-all-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32375,
           "isPrimary": true
         },
@@ -3336,7 +3660,9 @@
           "filePath": "iSurrenderAll-D-choral.pdf",
           "fileName": "iSurrenderAll-D-choral.pdf",
           "key": "D",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 312150,
           "isPrimary": false
         }
@@ -3369,7 +3695,9 @@
           "filePath": "i-will-follow-Bb-orig.pdf",
           "fileName": "i-will-follow-Bb-orig.pdf",
           "key": "Bb",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37902,
           "isPrimary": false
         },
@@ -3377,7 +3705,9 @@
           "filePath": "i-will-follow-Bb-plural.pdf",
           "fileName": "i-will-follow-Bb-plural.pdf",
           "key": "Bb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 41251,
           "isPrimary": true
         },
@@ -3385,7 +3715,9 @@
           "filePath": "i-will-follow-Bb.pdf",
           "fileName": "i-will-follow-Bb.pdf",
           "key": "Bb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36967,
           "isPrimary": false
         }
@@ -3413,7 +3745,9 @@
           "filePath": "iWillSingOfMyRedeemer-chords-D.pdf",
           "fileName": "iWillSingOfMyRedeemer-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84936,
           "isPrimary": true
         }
@@ -3445,7 +3779,9 @@
           "filePath": "IWillSingOfTheMercies_C_lead.pdf",
           "fileName": "IWillSingOfTheMercies_C_lead.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 167046,
           "isPrimary": true
         },
@@ -3453,7 +3789,9 @@
           "filePath": "i-will-sing-of-the-mercies-C-orig.pdf",
           "fileName": "i-will-sing-of-the-mercies-C-orig.pdf",
           "key": "C",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 29553,
           "isPrimary": false
         },
@@ -3461,7 +3799,9 @@
           "filePath": "i-will-sing-of-the-mercies-C.pdf",
           "fileName": "i-will-sing-of-the-mercies-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 28091,
           "isPrimary": false
         }
@@ -3496,7 +3836,9 @@
           "filePath": "in-christ-alone-D-orig.pdf",
           "fileName": "in-christ-alone-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 90286,
           "isPrimary": false
         },
@@ -3504,7 +3846,9 @@
           "filePath": "in-christ-alone-D.pdf",
           "fileName": "in-christ-alone-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84115,
           "isPrimary": true
         }
@@ -3537,7 +3881,9 @@
           "filePath": "inTheGarden-chords-Ab-orig.pdf",
           "fileName": "inTheGarden-chords-Ab-orig.pdf",
           "key": "Ab",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32099,
           "isPrimary": false
         },
@@ -3545,7 +3891,9 @@
           "filePath": "inTheGarden-chords-Ab.pdf",
           "fileName": "inTheGarden-chords-Ab.pdf",
           "key": "Ab",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31325,
           "isPrimary": true
         },
@@ -3553,7 +3901,9 @@
           "filePath": "inTheGarden-chords-f.pdf",
           "fileName": "inTheGarden-chords-f.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 80777,
           "isPrimary": false
         },
@@ -3562,6 +3912,8 @@
           "fileName": "inTheGarden-vocal-Ab.pdf",
           "key": "Ab",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 101307,
           "isPrimary": false
         }
@@ -3590,7 +3942,9 @@
           "filePath": "infant-holy-infant-lowly.pdf",
           "fileName": "infant-holy-infant-lowly.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66920,
           "isPrimary": true
         }
@@ -3626,7 +3980,9 @@
           "filePath": "isHeWorthy-chords-Bb.pdf",
           "fileName": "isHeWorthy-chords-Bb.pdf",
           "key": "Bb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 61909,
           "isPrimary": true
         },
@@ -3634,7 +3990,9 @@
           "filePath": "isHeWorthy-lead-Bb.pdf",
           "fileName": "isHeWorthy-lead-Bb.pdf",
           "key": "Bb",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 159894,
           "isPrimary": false
         },
@@ -3643,6 +4001,8 @@
           "fileName": "isHeWorthy-vocal-Bb.pdf",
           "key": "Bb",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 251567,
           "isPrimary": false
         }
@@ -3674,7 +4034,9 @@
           "filePath": "isaiah_9_6_7-chords-C.pdf",
           "fileName": "isaiah_9_6_7-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 324946,
           "isPrimary": true
         }
@@ -3705,7 +4067,9 @@
           "filePath": "itCameUponTheMidnightClear.pdf",
           "fileName": "itCameUponTheMidnightClear.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67538,
           "isPrimary": true
         }
@@ -3738,7 +4102,9 @@
           "filePath": "ItIsWellWithMySoul_A_chords.pdf",
           "fileName": "ItIsWellWithMySoul_A_chords.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 82932,
           "isPrimary": true
         },
@@ -3746,7 +4112,9 @@
           "filePath": "ItIsWellWithMySoul_A_vocal.pdf",
           "fileName": "ItIsWellWithMySoul_A_vocal.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 100293,
           "isPrimary": false
         }
@@ -3776,7 +4144,9 @@
           "filePath": "jesusPaidItAll-choral.pdf",
           "fileName": "jesusPaidItAll-choral.pdf",
           "key": "unknown",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 322035,
           "isPrimary": false
         },
@@ -3784,7 +4154,9 @@
           "filePath": "jesusPaidItAll.pdf",
           "fileName": "jesusPaidItAll.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65655,
           "isPrimary": true
         }
@@ -3821,7 +4193,9 @@
           "filePath": "JoyToTheWorld-G-chords.pdf",
           "fileName": "JoyToTheWorld-G-chords.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68959,
           "isPrimary": true
         },
@@ -3829,7 +4203,9 @@
           "filePath": "joy-to-the-world-antioch-B.pdf",
           "fileName": "joy-to-the-world-antioch-B.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32379,
           "isPrimary": false
         },
@@ -3837,7 +4213,9 @@
           "filePath": "joy-to-the-world-antioch-C.pdf",
           "fileName": "joy-to-the-world-antioch-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 52380,
           "isPrimary": false
         },
@@ -3846,6 +4224,8 @@
           "fileName": "joyToTheWorld-B-vocal.pdf",
           "key": "B",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 324390,
           "isPrimary": false
         }
@@ -3879,7 +4259,9 @@
           "filePath": "joy-to-the-world-unspeakable-joy-G-orig.pdf",
           "fileName": "joy-to-the-world-unspeakable-joy-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34908,
           "isPrimary": true
         }
@@ -3915,7 +4297,9 @@
           "filePath": "king-of-kings-D-orig.pdf",
           "fileName": "king-of-kings-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34138,
           "isPrimary": false
         },
@@ -3923,7 +4307,9 @@
           "filePath": "king-of-kings-D.pdf",
           "fileName": "king-of-kings-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33766,
           "isPrimary": true
         }
@@ -3955,7 +4341,9 @@
           "filePath": "leaningOnTheEverlastingArms-G-chords.pdf",
           "fileName": "leaningOnTheEverlastingArms-G-chords.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65040,
           "isPrimary": true
         }
@@ -3983,7 +4371,9 @@
           "filePath": "letYourHeartBeBroken-E-chords.pdf",
           "fileName": "letYourHeartBeBroken-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 71942,
           "isPrimary": true
         }
@@ -4015,7 +4405,9 @@
           "filePath": "lightAfterDarkness-chords-E.pdf",
           "fileName": "lightAfterDarkness-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67874,
           "isPrimary": true
         }
@@ -4049,7 +4441,9 @@
           "filePath": "loHowARoseEerBlooming-chords-C.pdf",
           "fileName": "loHowARoseEerBlooming-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66570,
           "isPrimary": true
         }
@@ -4083,7 +4477,9 @@
           "filePath": "lordILiftYourNameOnHigh-kids-chords-G.pdf",
           "fileName": "lordILiftYourNameOnHigh-kids-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66278,
           "isPrimary": true
         }
@@ -4117,7 +4513,9 @@
           "filePath": "lordINeedYou-F-chords-orig.pdf",
           "fileName": "lordINeedYou-F-chords-orig.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 96218,
           "isPrimary": false
         },
@@ -4125,7 +4523,9 @@
           "filePath": "lordINeedYou-F-chords.pdf",
           "fileName": "lordINeedYou-F-chords.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 88136,
           "isPrimary": true
         },
@@ -4133,7 +4533,9 @@
           "filePath": "lordINeedYou-F-lead.pdf",
           "fileName": "lordINeedYou-F-lead.pdf",
           "key": "F",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 132234,
           "isPrimary": false
         },
@@ -4141,7 +4543,9 @@
           "filePath": "lordINeedYou-G-chords-orig.pdf",
           "fileName": "lordINeedYou-G-chords-orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 38756,
           "isPrimary": false
         },
@@ -4149,7 +4553,9 @@
           "filePath": "lordINeedYou-G-chords.pdf",
           "fileName": "lordINeedYou-G-chords.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 37073,
           "isPrimary": false
         },
@@ -4157,7 +4563,9 @@
           "filePath": "lordINeedYou-G-lead.pdf",
           "fileName": "lordINeedYou-G-lead.pdf",
           "key": "G",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 564114,
           "isPrimary": false
         }
@@ -4187,7 +4595,9 @@
           "filePath": "loveDivineAllLoveExcelling-chords-C.pdf",
           "fileName": "loveDivineAllLoveExcelling-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69305,
           "isPrimary": true
         }
@@ -4215,7 +4625,9 @@
           "filePath": "loveLiftedMe.pdf",
           "fileName": "loveLiftedMe.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 64814,
           "isPrimary": true
         }
@@ -4250,7 +4662,9 @@
           "filePath": "loveLiftedMe-choral-A.pdf",
           "fileName": "loveLiftedMe-choral-A.pdf",
           "key": "A",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 417384,
           "isPrimary": false
         },
@@ -4258,7 +4672,9 @@
           "filePath": "loveLiftedMe-lead-A.pdf",
           "fileName": "loveLiftedMe-lead-A.pdf",
           "key": "A",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 218957,
           "isPrimary": true
         }
@@ -4290,7 +4706,9 @@
           "filePath": "majestyOfHeaven-chords-F.pdf",
           "fileName": "majestyOfHeaven-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 89307,
           "isPrimary": true
         }
@@ -4319,7 +4737,9 @@
           "filePath": "mary-did-you-know-Am-lead.pdf",
           "fileName": "mary-did-you-know-Am-lead.pdf",
           "key": "Am",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 427488,
           "isPrimary": false
         },
@@ -4327,7 +4747,9 @@
           "filePath": "mary-did-you-know-Am.pdf",
           "fileName": "mary-did-you-know-Am.pdf",
           "key": "Am",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34210,
           "isPrimary": true
         }
@@ -4358,7 +4780,9 @@
           "filePath": "mightyToSave-chords-G.pdf",
           "fileName": "mightyToSave-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 80487,
           "isPrimary": true
         }
@@ -4386,7 +4810,9 @@
           "filePath": "moreLoveToTheeOChrist-chords.pdf",
           "fileName": "moreLoveToTheeOChrist-chords.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66809,
           "isPrimary": true
         }
@@ -4419,7 +4845,9 @@
           "filePath": "moving-forward-C-orig.pdf",
           "fileName": "moving-forward-C-orig.pdf",
           "key": "C",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 40303,
           "isPrimary": false
         },
@@ -4427,7 +4855,9 @@
           "filePath": "moving-forward-C.pdf",
           "fileName": "moving-forward-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 38767,
           "isPrimary": true
         }
@@ -4459,7 +4889,9 @@
           "filePath": "myGodIsSoBig_F_chords.pdf",
           "fileName": "myGodIsSoBig_F_chords.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 61785,
           "isPrimary": true
         }
@@ -4493,17 +4925,21 @@
           "filePath": "my-heart-is-filled-C-lead-orig.pdf",
           "fileName": "my-heart-is-filled-C-lead-orig.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 192470,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "my-heart-is-filled-C-orig.pdf",
           "fileName": "my-heart-is-filled-C-orig.pdf",
           "key": "C",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32035,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [],
@@ -4530,7 +4966,9 @@
           "filePath": "myJesusILoveThee-chords-D.pdf",
           "fileName": "myJesusILoveThee-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 79445,
           "isPrimary": true
         }
@@ -4558,7 +4996,9 @@
           "filePath": "myRedeemerLives-chords-D.pdf",
           "fileName": "myRedeemerLives-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84402,
           "isPrimary": true
         }
@@ -4589,7 +5029,9 @@
           "filePath": "NewSong_E_chords.pdf",
           "fileName": "NewSong_E_chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68317,
           "isPrimary": true
         }
@@ -4621,7 +5063,9 @@
           "filePath": "NoNotOne-chords-D.pdf",
           "fileName": "NoNotOne-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63059,
           "isPrimary": true
         }
@@ -4649,7 +5093,9 @@
           "filePath": "noSacrifice.pdf",
           "fileName": "noSacrifice.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 62837,
           "isPrimary": true
         }
@@ -4683,7 +5129,9 @@
           "filePath": "noel-chords-C-orig.pdf",
           "fileName": "noel-chords-C-orig.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 100872,
           "isPrimary": false
         },
@@ -4691,7 +5139,9 @@
           "filePath": "noel-chords-C.pdf",
           "fileName": "noel-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 94500,
           "isPrimary": true
         },
@@ -4699,7 +5149,9 @@
           "filePath": "noel-lead-C.pdf",
           "fileName": "noel-lead-C.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 117520,
           "isPrimary": false
         }
@@ -4729,7 +5181,9 @@
           "filePath": "nothing-but-the-blood-plainfield-E-orig.pdf",
           "fileName": "nothing-but-the-blood-plainfield-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31370,
           "isPrimary": false
         },
@@ -4737,7 +5191,9 @@
           "filePath": "nothing-but-the-blood-plainfield-E.pdf",
           "fileName": "nothing-but-the-blood-plainfield-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 30800,
           "isPrimary": true
         }
@@ -4770,7 +5226,9 @@
           "filePath": "nothingWithoutYou-chords-B-orig.pdf",
           "fileName": "nothingWithoutYou-chords-B-orig.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 97710,
           "isPrimary": false
         },
@@ -4778,7 +5236,9 @@
           "filePath": "nothingWithoutYou-chords-B.pdf",
           "fileName": "nothingWithoutYou-chords-B.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 89605,
           "isPrimary": true
         }
@@ -4806,7 +5266,9 @@
           "filePath": "NowUntoTheKingEternal_lead_E.pdf",
           "fileName": "NowUntoTheKingEternal_lead_E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 179668,
           "isPrimary": true
         }
@@ -4840,7 +5302,9 @@
           "filePath": "oChurchArise-chords-C.pdf",
           "fileName": "oChurchArise-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 87987,
           "isPrimary": true
         }
@@ -4870,6 +5334,8 @@
           "fileName": "o-come-all-ye-faithful-vocal.pdf",
           "key": "unknown",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 108655,
           "isPrimary": false
         },
@@ -4877,7 +5343,9 @@
           "filePath": "o-come-all-ye-faithful.pdf",
           "fileName": "o-come-all-ye-faithful.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68499,
           "isPrimary": true
         }
@@ -4914,7 +5382,9 @@
           "filePath": "OComeOComeEmmanuel_Dm.pdf",
           "fileName": "OComeOComeEmmanuel_Dm.pdf",
           "key": "Dm",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 329770,
           "isPrimary": true
         },
@@ -4922,7 +5392,9 @@
           "filePath": "OComeOComeEmmanuel_chords_Dm.pdf",
           "fileName": "OComeOComeEmmanuel_chords_Dm.pdf",
           "key": "Dm",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66838,
           "isPrimary": false
         },
@@ -4930,7 +5402,9 @@
           "filePath": "OComeOComeEmmanuel_jazzShuffle_chords_Dm.pdf",
           "fileName": "OComeOComeEmmanuel_jazzShuffle_chords_Dm.pdf",
           "key": "Dm",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67486,
           "isPrimary": false
         },
@@ -4938,7 +5412,9 @@
           "filePath": "OComeOComeEmmanuel_vocal-Dm.pdf",
           "fileName": "OComeOComeEmmanuel_vocal-Dm.pdf",
           "key": "Dm",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 106579,
           "isPrimary": false
         }
@@ -4970,7 +5446,9 @@
           "filePath": "OForAThousandTonguesToSing-E.pdf",
           "fileName": "OForAThousandTonguesToSing-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 82906,
           "isPrimary": true
         }
@@ -5001,7 +5479,9 @@
           "filePath": "o-how-i-love-jesus-D-chords.pdf",
           "fileName": "o-how-i-love-jesus-D-chords.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63963,
           "isPrimary": true
         }
@@ -5036,7 +5516,9 @@
           "filePath": "oHowILoveJesus-chords-F.pdf",
           "fileName": "oHowILoveJesus-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 77905,
           "isPrimary": true
         }
@@ -5069,7 +5551,9 @@
           "filePath": "o-little-town-of-bethlehem-saint-louis-D-orig.pdf",
           "fileName": "o-little-town-of-bethlehem-saint-louis-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 38358,
           "isPrimary": false
         },
@@ -5078,6 +5562,8 @@
           "fileName": "o-little-town-of-bethlehem-saint-louis-D-vocal-orig.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 331421,
           "isPrimary": false
         },
@@ -5086,6 +5572,8 @@
           "fileName": "o-little-town-of-bethlehem-saint-louis-D-vocal.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 57836,
           "isPrimary": false
         },
@@ -5093,7 +5581,9 @@
           "filePath": "o-little-town-of-bethlehem-saint-louis-D.pdf",
           "fileName": "o-little-town-of-bethlehem-saint-louis-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 47686,
           "isPrimary": true
         }
@@ -5125,7 +5615,9 @@
           "filePath": "oneRaceOneGospelOneTask-chords-E.pdf",
           "fileName": "oneRaceOneGospelOneTask-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67525,
           "isPrimary": true
         }
@@ -5161,7 +5653,9 @@
           "filePath": "only-king-forever-G-orig.pdf",
           "fileName": "only-king-forever-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 33837,
           "isPrimary": false
         },
@@ -5169,7 +5663,9 @@
           "filePath": "only-king-forever-G.pdf",
           "fileName": "only-king-forever-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33162,
           "isPrimary": true
         }
@@ -5199,7 +5695,9 @@
           "filePath": "openTheEyesOfMyHeart-chords-D-orig.pdf",
           "fileName": "openTheEyesOfMyHeart-chords-D-orig.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 86149,
           "isPrimary": false
         },
@@ -5207,7 +5705,9 @@
           "filePath": "openTheEyesOfMyHeart-chords-D.pdf",
           "fileName": "openTheEyesOfMyHeart-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 79850,
           "isPrimary": true
         }
@@ -5238,7 +5738,9 @@
           "filePath": "our-god-E-chords.pdf",
           "fileName": "our-god-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 44111,
           "isPrimary": true
         },
@@ -5246,7 +5748,9 @@
           "filePath": "our-god-E-orig-chords.pdf",
           "fileName": "our-god-E-orig-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 33951,
           "isPrimary": false
         }
@@ -5275,7 +5779,9 @@
           "filePath": "our-god-saves-chords-B-orig.pdf",
           "fileName": "our-god-saves-chords-B-orig.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 78642,
           "isPrimary": false
         },
@@ -5283,7 +5789,9 @@
           "filePath": "our-god-saves-chords-B.pdf",
           "fileName": "our-god-saves-chords-B.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 78642,
           "isPrimary": true
         },
@@ -5291,7 +5799,9 @@
           "filePath": "our-god-saves-chords-C-orig.pdf",
           "fileName": "our-god-saves-chords-C-orig.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31070,
           "isPrimary": false
         },
@@ -5299,7 +5809,9 @@
           "filePath": "our-god-saves-chords-C.pdf",
           "fileName": "our-god-saves-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34117,
           "isPrimary": false
         }
@@ -5329,7 +5841,9 @@
           "filePath": "passItOn-chords-C.pdf",
           "fileName": "passItOn-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 100989,
           "isPrimary": true
         }
@@ -5359,7 +5873,9 @@
           "filePath": "praise-the-father-praise-the-son-B.pdf",
           "fileName": "praise-the-father-praise-the-son-B.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 102271,
           "isPrimary": true
         },
@@ -5367,7 +5883,9 @@
           "filePath": "praise-the-father-praise-the-son-C-lead.pdf",
           "fileName": "praise-the-father-praise-the-son-C-lead.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 62098,
           "isPrimary": false
         },
@@ -5375,7 +5893,9 @@
           "filePath": "praise-the-father-praise-the-son-C.pdf",
           "fileName": "praise-the-father-praise-the-son-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 39935,
           "isPrimary": false
         }
@@ -5408,7 +5928,9 @@
           "filePath": "PraiseToTheLordTheAlmighty_chords_D.pdf",
           "fileName": "PraiseToTheLordTheAlmighty_chords_D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68359,
           "isPrimary": true
         },
@@ -5416,7 +5938,9 @@
           "filePath": "PraiseToTheLordTheAlmighty_chords_F.pdf",
           "fileName": "PraiseToTheLordTheAlmighty_chords_F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84670,
           "isPrimary": false
         }
@@ -5446,7 +5970,9 @@
           "filePath": "reckless-love-A-orig.pdf",
           "fileName": "reckless-love-A-orig.pdf",
           "key": "A",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34440,
           "isPrimary": false
         },
@@ -5454,7 +5980,9 @@
           "filePath": "reckless-love-A.pdf",
           "fileName": "reckless-love-A.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 37351,
           "isPrimary": true
         }
@@ -5484,7 +6012,9 @@
           "filePath": "reign-in-us-F-orig.pdf",
           "fileName": "reign-in-us-F-orig.pdf",
           "key": "F",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 39209,
           "isPrimary": false
         },
@@ -5493,6 +6023,8 @@
           "fileName": "reign-in-us-F-vocal.pdf",
           "key": "F",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 153797,
           "isPrimary": false
         },
@@ -5500,7 +6032,9 @@
           "filePath": "reign-in-us-F.pdf",
           "fileName": "reign-in-us-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36391,
           "isPrimary": true
         }
@@ -5528,7 +6062,9 @@
           "filePath": "revelation-song-D-orig.pdf",
           "fileName": "revelation-song-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37014,
           "isPrimary": false
         },
@@ -5536,7 +6072,9 @@
           "filePath": "revelation-song-D.pdf",
           "fileName": "revelation-song-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35070,
           "isPrimary": true
         }
@@ -5564,7 +6102,9 @@
           "filePath": "revelations19_1-chords-D-orig.pdf",
           "fileName": "revelations19_1-chords-D-orig.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31493,
           "isPrimary": false
         },
@@ -5572,7 +6112,9 @@
           "filePath": "revelations19_1-chords-D.pdf",
           "fileName": "revelations19_1-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31278,
           "isPrimary": true
         },
@@ -5580,7 +6122,9 @@
           "filePath": "revelations19_1-lead-D.pdf",
           "fileName": "revelations19_1-lead-D.pdf",
           "key": "D",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 116101,
           "isPrimary": false
         }
@@ -5608,7 +6152,9 @@
           "filePath": "Romans5_8.pdf",
           "fileName": "Romans5_8.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 60471,
           "isPrimary": true
         }
@@ -5647,7 +6193,9 @@
           "filePath": "runToTheFather-chords-F-orig.pdf",
           "fileName": "runToTheFather-chords-F-orig.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 165652,
           "isPrimary": false
         },
@@ -5655,7 +6203,9 @@
           "filePath": "runToTheFather-chords-F.pdf",
           "fileName": "runToTheFather-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 102920,
           "isPrimary": true
         },
@@ -5663,7 +6213,9 @@
           "filePath": "runToTheFather-lead-F.pdf",
           "fileName": "runToTheFather-lead-F.pdf",
           "key": "F",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 322141,
           "isPrimary": false
         }
@@ -5691,7 +6243,9 @@
           "filePath": "seeHimLyingOnABedOfStrawCalypsoCarol-lead-A.pdf",
           "fileName": "seeHimLyingOnABedOfStrawCalypsoCarol-lead-A.pdf",
           "key": "A",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 98892,
           "isPrimary": true
         },
@@ -5699,7 +6253,9 @@
           "filePath": "seeHimLyingOnABedOfStrawCalypsoCarol-lead-Bb.pdf",
           "fileName": "seeHimLyingOnABedOfStrawCalypsoCarol-lead-Bb.pdf",
           "key": "Bb",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 98920,
           "isPrimary": false
         }
@@ -5727,7 +6283,9 @@
           "filePath": "seek-ye-first-C-chords.pdf",
           "fileName": "seek-ye-first-C-chords.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 30848,
           "isPrimary": true
         }
@@ -5757,7 +6315,9 @@
           "filePath": "shoutHosanna-chords-G.pdf",
           "fileName": "shoutHosanna-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 30365,
           "isPrimary": true
         }
@@ -5788,7 +6348,9 @@
           "filePath": "shout-to-the-lord-A-orig.pdf",
           "fileName": "shout-to-the-lord-A-orig.pdf",
           "key": "A",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31477,
           "isPrimary": false
         },
@@ -5796,7 +6358,9 @@
           "filePath": "shout-to-the-lord-A.pdf",
           "fileName": "shout-to-the-lord-A.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34086,
           "isPrimary": true
         }
@@ -5824,7 +6388,9 @@
           "filePath": "silent-night-stille-nacht-G-orig.pdf",
           "fileName": "silent-night-stille-nacht-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 30697,
           "isPrimary": false
         },
@@ -5833,6 +6399,8 @@
           "fileName": "silent-night-stille-nacht-G-vocal.pdf",
           "key": "G",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 269575,
           "isPrimary": false
         },
@@ -5840,7 +6408,9 @@
           "filePath": "silent-night-stille-nacht-G.pdf",
           "fileName": "silent-night-stille-nacht-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 28786,
           "isPrimary": true
         }
@@ -5874,7 +6444,9 @@
           "filePath": "SilverAndGoldHaveINone_chords_G.pdf",
           "fileName": "SilverAndGoldHaveINone_chords_G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63210,
           "isPrimary": true
         }
@@ -5905,7 +6477,9 @@
           "filePath": "singPraiseToTheFather_E_chords.pdf",
           "fileName": "singPraiseToTheFather_E_chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68938,
           "isPrimary": true
         }
@@ -5936,7 +6510,9 @@
           "filePath": "sing-to-the-king-E-lead-orig.pdf",
           "fileName": "sing-to-the-king-E-lead-orig.pdf",
           "key": "E",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 280487,
           "isPrimary": false
         },
@@ -5944,7 +6520,9 @@
           "filePath": "sing-to-the-king-E-orig.pdf",
           "fileName": "sing-to-the-king-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31086,
           "isPrimary": false
         },
@@ -5952,7 +6530,9 @@
           "filePath": "sing-to-the-king-E.pdf",
           "fileName": "sing-to-the-king-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 30069,
           "isPrimary": true
         }
@@ -5986,7 +6566,9 @@
           "filePath": "soWillI-chords-C.pdf",
           "fileName": "soWillI-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 92582,
           "isPrimary": true
         },
@@ -5994,7 +6576,9 @@
           "filePath": "soWillI-lead-C.pdf",
           "fileName": "soWillI-lead-C.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 153177,
           "isPrimary": false
         }
@@ -6029,7 +6613,9 @@
           "filePath": "SoftlyAndTenderlyJesusIsCalling_chords_G.pdf",
           "fileName": "SoftlyAndTenderlyJesusIsCalling_chords_G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65335,
           "isPrimary": true
         }
@@ -6060,7 +6646,9 @@
           "filePath": "speak-o-lord_chords_A.pdf",
           "fileName": "speak-o-lord_chords_A.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34634,
           "isPrimary": true
         }
@@ -6088,7 +6676,9 @@
           "filePath": "SpiritOfGod_C_chords.pdf",
           "fileName": "SpiritOfGod_C_chords.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65392,
           "isPrimary": true
         }
@@ -6123,7 +6713,9 @@
           "filePath": "standing-on-the-promises-promises-G-kids.pdf",
           "fileName": "standing-on-the-promises-promises-G-kids.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32108,
           "isPrimary": true
         },
@@ -6131,7 +6723,9 @@
           "filePath": "standing-on-the-promises-promises-G-orig.pdf",
           "fileName": "standing-on-the-promises-promises-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32697,
           "isPrimary": false
         },
@@ -6139,7 +6733,9 @@
           "filePath": "standing-on-the-promises-promises-G.pdf",
           "fileName": "standing-on-the-promises-promises-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32916,
           "isPrimary": false
         }
@@ -6172,7 +6768,9 @@
           "filePath": "surrender-F-lead-orig.pdf",
           "fileName": "surrender-F-lead-orig.pdf",
           "key": "F",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 291570,
           "isPrimary": false
         },
@@ -6180,7 +6778,9 @@
           "filePath": "surrender-F-orig.pdf",
           "fileName": "surrender-F-orig.pdf",
           "key": "F",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34824,
           "isPrimary": false
         },
@@ -6188,7 +6788,9 @@
           "filePath": "surrender-F.pdf",
           "fileName": "surrender-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36586,
           "isPrimary": true
         }
@@ -6219,7 +6821,9 @@
           "filePath": "take-my-life-C-orig.pdf",
           "fileName": "take-my-life-C-orig.pdf",
           "key": "C",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37838,
           "isPrimary": false
         },
@@ -6227,7 +6831,9 @@
           "filePath": "take-my-life-C.pdf",
           "fileName": "take-my-life-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36214,
           "isPrimary": true
         }
@@ -6258,7 +6864,9 @@
           "filePath": "takeMyLifeAndLetItBe-chords-D.pdf",
           "fileName": "takeMyLifeAndLetItBe-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65537,
           "isPrimary": true
         }
@@ -6287,7 +6895,9 @@
           "filePath": "takeTimeToBeHoly-chords-E.pdf",
           "fileName": "takeTimeToBeHoly-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 76020,
           "isPrimary": true
         },
@@ -6295,7 +6905,9 @@
           "filePath": "takeTimeToBeHoly-lead-E.pdf",
           "fileName": "takeTimeToBeHoly-lead-E.pdf",
           "key": "E",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 87820,
           "isPrimary": false
         }
@@ -6323,7 +6935,9 @@
           "filePath": "tasteOfEternity-chords-E.pdf",
           "fileName": "tasteOfEternity-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 206668,
           "isPrimary": true
         }
@@ -6355,7 +6969,9 @@
           "filePath": "tellMeTheStoryOfJesus-chords-F.pdf",
           "fileName": "tellMeTheStoryOfJesus-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66161,
           "isPrimary": true
         },
@@ -6363,7 +6979,9 @@
           "filePath": "tellMeTheStoryOfJesus-v13-chords-F.pdf",
           "fileName": "tellMeTheStoryOfJesus-v13-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63271,
           "isPrimary": false
         }
@@ -6393,7 +7011,9 @@
           "filePath": "Thankful-chords-E.pdf",
           "fileName": "Thankful-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36323,
           "isPrimary": true
         }
@@ -6426,7 +7046,9 @@
           "filePath": "theBlessing-chords-B.pdf",
           "fileName": "theBlessing-chords-B.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 84022,
           "isPrimary": true
         },
@@ -6434,7 +7056,9 @@
           "filePath": "theBlessing-chords-orig-B.pdf",
           "fileName": "theBlessing-chords-orig-B.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 90447,
           "isPrimary": false
         }
@@ -6462,7 +7086,9 @@
           "filePath": "TheBloodWillNeverLoseItsPower-Ab-Choral.pdf",
           "fileName": "TheBloodWillNeverLoseItsPower-Ab-Choral.pdf",
           "key": "Ab",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68985,
           "isPrimary": false
         },
@@ -6470,7 +7096,9 @@
           "filePath": "TheBloodWillNeverLoseItsPower-G-Choral.pdf",
           "fileName": "TheBloodWillNeverLoseItsPower-G-Choral.pdf",
           "key": "G",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66862,
           "isPrimary": false
         },
@@ -6478,7 +7106,9 @@
           "filePath": "the-blood-will-never-lose-its-power-Ab.pdf",
           "fileName": "the-blood-will-never-lose-its-power-Ab.pdf",
           "key": "Ab",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32160,
           "isPrimary": true
         },
@@ -6486,7 +7116,9 @@
           "filePath": "the-blood-will-never-lose-its-power-G.pdf",
           "fileName": "the-blood-will-never-lose-its-power-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32125,
           "isPrimary": false
         }
@@ -6522,7 +7154,9 @@
           "filePath": "theChurch-F-capo1-chords-orig.pdf",
           "fileName": "theChurch-F-capo1-chords-orig.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 111775,
           "isPrimary": false
         },
@@ -6530,7 +7164,9 @@
           "filePath": "theChurch-F-capo1-chords.pdf",
           "fileName": "theChurch-F-capo1-chords.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 103923,
           "isPrimary": true
         },
@@ -6538,7 +7174,9 @@
           "filePath": "theChurch-Gb-chords-orig.pdf",
           "fileName": "theChurch-Gb-chords-orig.pdf",
           "key": "Gb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 112115,
           "isPrimary": false
         },
@@ -6546,7 +7184,9 @@
           "filePath": "theChurch-Gb-lead.pdf",
           "fileName": "theChurch-Gb-lead.pdf",
           "key": "Gb",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 163291,
           "isPrimary": false
         },
@@ -6554,7 +7194,9 @@
           "filePath": "theChurch-Gb.pdf",
           "fileName": "theChurch-Gb.pdf",
           "key": "Gb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 103984,
           "isPrimary": false
         }
@@ -6582,7 +7224,9 @@
           "filePath": "theFirstNoel-chords-B.pdf",
           "fileName": "theFirstNoel-chords-B.pdf",
           "key": "B",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 69316,
           "isPrimary": true
         }
@@ -6612,7 +7256,9 @@
           "filePath": "the-heart-of-worship-D-orig.pdf",
           "fileName": "the-heart-of-worship-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31689,
           "isPrimary": false
         },
@@ -6620,7 +7266,9 @@
           "filePath": "the-heart-of-worship-D.pdf",
           "fileName": "the-heart-of-worship-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31143,
           "isPrimary": true
         }
@@ -6651,7 +7299,9 @@
           "filePath": "TheJoyOfTheLordIsMyStrength-C.pdf",
           "fileName": "TheJoyOfTheLordIsMyStrength-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 62482,
           "isPrimary": true
         }
@@ -6682,7 +7332,9 @@
           "filePath": "TheKingdomOfGodIsJusticeAndJoy-chords-E.pdf",
           "fileName": "TheKingdomOfGodIsJusticeAndJoy-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66895,
           "isPrimary": true
         },
@@ -6690,7 +7342,9 @@
           "filePath": "TheKingdomOfGodIsJusticeAndJoy-chords-F.pdf",
           "fileName": "TheKingdomOfGodIsJusticeAndJoy-chords-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66437,
           "isPrimary": false
         }
@@ -6718,7 +7372,9 @@
           "filePath": "theLordsPrayerChildrensEdition-C.pdf",
           "fileName": "theLordsPrayerChildrensEdition-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 86585,
           "isPrimary": true
         }
@@ -6752,7 +7408,9 @@
           "filePath": "thePottersHand-chords-G-orig.pdf",
           "fileName": "thePottersHand-chords-G-orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 60951,
           "isPrimary": false
         },
@@ -6760,7 +7418,9 @@
           "filePath": "thePottersHand-chords-G.pdf",
           "fileName": "thePottersHand-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 58133,
           "isPrimary": true
         },
@@ -6768,7 +7428,9 @@
           "filePath": "thePottersHand-lead-G.pdf",
           "fileName": "thePottersHand-lead-G.pdf",
           "key": "G",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 109648,
           "isPrimary": false
         }
@@ -6797,7 +7459,9 @@
           "filePath": "ThePowerOfTheCross-lead-A.pdf",
           "fileName": "ThePowerOfTheCross-lead-A.pdf",
           "key": "A",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 273774,
           "isPrimary": false
         },
@@ -6805,7 +7469,9 @@
           "filePath": "the-power-of-the-cross-A-choral.pdf",
           "fileName": "the-power-of-the-cross-A-choral.pdf",
           "key": "A",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 481450,
           "isPrimary": false
         },
@@ -6813,7 +7479,9 @@
           "filePath": "the-power-of-the-cross-A-orig.pdf",
           "fileName": "the-power-of-the-cross-A-orig.pdf",
           "key": "A",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 35988,
           "isPrimary": false
         },
@@ -6821,7 +7489,9 @@
           "filePath": "the-power-of-the-cross-A.pdf",
           "fileName": "the-power-of-the-cross-A.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35795,
           "isPrimary": true
         }
@@ -6852,7 +7522,9 @@
           "filePath": "theSolidRock.pdf",
           "fileName": "theSolidRock.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67894,
           "isPrimary": true
         }
@@ -6885,7 +7557,9 @@
           "filePath": "theWiseManBuiltHisHouse_funkyVersion_C.pdf",
           "fileName": "theWiseManBuiltHisHouse_funkyVersion_C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67459,
           "isPrimary": true
         }
@@ -6915,7 +7589,9 @@
           "filePath": "the-wonderful-cross-C-lead-orig.pdf",
           "fileName": "the-wonderful-cross-C-lead-orig.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 269905,
           "isPrimary": false
         },
@@ -6923,7 +7599,9 @@
           "filePath": "the-wonderful-cross-C-orig.pdf",
           "fileName": "the-wonderful-cross-C-orig.pdf",
           "key": "C",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 35263,
           "isPrimary": false
         },
@@ -6931,7 +7609,9 @@
           "filePath": "the-wonderful-cross-C.pdf",
           "fileName": "the-wonderful-cross-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 46029,
           "isPrimary": true
         }
@@ -6963,7 +7643,9 @@
           "filePath": "there-is-a-redeemer-C-orig.pdf",
           "fileName": "there-is-a-redeemer-C-orig.pdf",
           "key": "A",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 32202,
           "isPrimary": false
         },
@@ -6971,7 +7653,9 @@
           "filePath": "there-is-a-redeemer-C.pdf",
           "fileName": "there-is-a-redeemer-C.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 31728,
           "isPrimary": true
         }
@@ -7001,7 +7685,9 @@
           "filePath": "there-is-power-in-the-blood-power-in-the-blood-G-orig.pdf",
           "fileName": "there-is-power-in-the-blood-power-in-the-blood-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 31744,
           "isPrimary": false
         },
@@ -7009,7 +7695,9 @@
           "filePath": "there-is-power-in-the-blood-power-in-the-blood-G.pdf",
           "fileName": "there-is-power-in-the-blood-power-in-the-blood-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33403,
           "isPrimary": true
         }
@@ -7041,7 +7729,9 @@
           "filePath": "this-i-believe-the-creed-G-orig.pdf",
           "fileName": "this-i-believe-the-creed-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 37570,
           "isPrimary": false
         },
@@ -7049,7 +7739,9 @@
           "filePath": "this-i-believe-the-creed-G.pdf",
           "fileName": "this-i-believe-the-creed-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 36357,
           "isPrimary": true
         }
@@ -7081,7 +7773,9 @@
           "filePath": "this-is-amazing-grace-Bb.pdf",
           "fileName": "this-is-amazing-grace-Bb.pdf",
           "key": "Bb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34791,
           "isPrimary": true
         },
@@ -7089,7 +7783,9 @@
           "filePath": "this-is-amazing-grace-F-orig.pdf",
           "fileName": "this-is-amazing-grace-F-orig.pdf",
           "key": "F",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34412,
           "isPrimary": false
         },
@@ -7097,7 +7793,9 @@
           "filePath": "this-is-amazing-grace-F.pdf",
           "fileName": "this-is-amazing-grace-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35219,
           "isPrimary": false
         }
@@ -7128,7 +7826,9 @@
           "filePath": "ThisIsMyFathersWorld-C-Chords.pdf",
           "fileName": "ThisIsMyFathersWorld-C-Chords.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66968,
           "isPrimary": true
         }
@@ -7156,7 +7856,9 @@
           "filePath": "this-is-the-day-D.pdf",
           "fileName": "this-is-the-day-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 29575,
           "isPrimary": true
         }
@@ -7186,7 +7888,9 @@
           "filePath": "ThisLittleLightOfMine-chords-D.pdf",
           "fileName": "ThisLittleLightOfMine-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63752,
           "isPrimary": true
         }
@@ -7216,7 +7920,9 @@
           "filePath": "throughItAll-lead-Eb.pdf",
           "fileName": "throughItAll-lead-Eb.pdf",
           "key": "Eb",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 94633,
           "isPrimary": true
         }
@@ -7245,7 +7951,9 @@
           "filePath": "thyMercyMyGod-D-chords.pdf",
           "fileName": "thyMercyMyGod-D-chords.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68005,
           "isPrimary": true
         }
@@ -7275,7 +7983,9 @@
           "filePath": "tinyLittleMe-E-chords.pdf",
           "fileName": "tinyLittleMe-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 68126,
           "isPrimary": true
         }
@@ -7307,7 +8017,9 @@
           "filePath": "tis-so-sweet-to-trust-in-jesus-D-chords.pdf",
           "fileName": "tis-so-sweet-to-trust-in-jesus-D-chords.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 81517,
           "isPrimary": true
         },
@@ -7316,6 +8028,8 @@
           "fileName": "tis-so-sweet-to-trust-in-jesus-D-vocal.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 103472,
           "isPrimary": false
         },
@@ -7323,7 +8037,9 @@
           "filePath": "tis-so-sweet-to-trust-in-jesus-E-chords.pdf",
           "fileName": "tis-so-sweet-to-trust-in-jesus-E-chords.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67476,
           "isPrimary": false
         }
@@ -7360,7 +8076,9 @@
           "filePath": "toGodBeTheGlory.pdf",
           "fileName": "toGodBeTheGlory.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65053,
           "isPrimary": true
         }
@@ -7393,7 +8111,9 @@
           "filePath": "trading-my-sorrows-plural-G-chords.pdf",
           "fileName": "trading-my-sorrows-plural-G-chords.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65787,
           "isPrimary": true
         }
@@ -7425,7 +8145,9 @@
           "filePath": "when-we-walk-with-the-lord-trust-and-obey-D-orig.pdf",
           "fileName": "when-we-walk-with-the-lord-trust-and-obey-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34788,
           "isPrimary": false
         },
@@ -7434,6 +8156,8 @@
           "fileName": "when-we-walk-with-the-lord-trust-and-obey-D-vocal.pdf",
           "key": "D",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 104455,
           "isPrimary": false
         },
@@ -7441,7 +8165,9 @@
           "filePath": "when-we-walk-with-the-lord-trust-and-obey-D.pdf",
           "fileName": "when-we-walk-with-the-lord-trust-and-obey-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 37033,
           "isPrimary": true
         }
@@ -7475,7 +8201,9 @@
           "filePath": "trustInTheLord-C-lead.pdf",
           "fileName": "trustInTheLord-C-lead.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 32445,
           "isPrimary": true
         }
@@ -7509,7 +8237,9 @@
           "filePath": "trustingJesus-chords-Bb.pdf",
           "fileName": "trustingJesus-chords-Bb.pdf",
           "key": "Bb",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66411,
           "isPrimary": true
         }
@@ -7543,7 +8273,9 @@
           "filePath": "turnYourEyesUponJesus-F-lead.pdf",
           "fileName": "turnYourEyesUponJesus-F-lead.pdf",
           "key": "F",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 391541,
           "isPrimary": true
         }
@@ -7573,7 +8305,9 @@
           "filePath": "victoryInJesus.pdf",
           "fileName": "victoryInJesus.pdf",
           "key": "unknown",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 65742,
           "isPrimary": true
         }
@@ -7605,7 +8339,9 @@
           "filePath": "wayMaker-chords-G-orig.pdf",
           "fileName": "wayMaker-chords-G-orig.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 87660,
           "isPrimary": false
         },
@@ -7613,7 +8349,9 @@
           "filePath": "wayMaker-chords-G.pdf",
           "fileName": "wayMaker-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 80889,
           "isPrimary": true
         },
@@ -7621,7 +8359,9 @@
           "filePath": "wayMaker-lead-G.pdf",
           "fileName": "wayMaker-lead-G.pdf",
           "key": "G",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 128714,
           "isPrimary": false
         }
@@ -7649,7 +8389,9 @@
           "filePath": "weAreCalledToBeGodsPeople-chords-D.pdf",
           "fileName": "weAreCalledToBeGodsPeople-chords-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66957,
           "isPrimary": true
         }
@@ -7682,7 +8424,9 @@
           "filePath": "we-are-listening-D-orig.pdf",
           "fileName": "we-are-listening-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 335843,
           "isPrimary": false
         },
@@ -7690,7 +8434,9 @@
           "filePath": "we-are-listening-D.pdf",
           "fileName": "we-are-listening-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 334725,
           "isPrimary": true
         }
@@ -7718,7 +8464,9 @@
           "filePath": "we-three-kings-kings-of-orient-F.pdf",
           "fileName": "we-three-kings-kings-of-orient-F.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33642,
           "isPrimary": true
         },
@@ -7726,7 +8474,9 @@
           "filePath": "we-three-kings-kings-of-orient-F_vocal.pdf",
           "fileName": "we-three-kings-kings-of-orient-F_vocal.pdf",
           "key": "F",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 329781,
           "isPrimary": false
         },
@@ -7734,7 +8484,9 @@
           "filePath": "we-three-kings-kings-of-orient-G-orig.pdf",
           "fileName": "we-three-kings-kings-of-orient-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 33495,
           "isPrimary": false
         },
@@ -7742,7 +8494,9 @@
           "filePath": "we-three-kings-kings-of-orient-G.pdf",
           "fileName": "we-three-kings-kings-of-orient-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33903,
           "isPrimary": false
         }
@@ -7772,7 +8526,9 @@
           "filePath": "weve-a-story-to-tell-to-the-nations.pdf",
           "fileName": "weve-a-story-to-tell-to-the-nations.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67875,
           "isPrimary": true
         }
@@ -7803,7 +8559,9 @@
           "filePath": "what-a-beautiful-name-C-orig.pdf",
           "fileName": "what-a-beautiful-name-C-orig.pdf",
           "key": "A",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34574,
           "isPrimary": false
         },
@@ -7811,7 +8569,9 @@
           "filePath": "what-a-beautiful-name-C.pdf",
           "fileName": "what-a-beautiful-name-C.pdf",
           "key": "A",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 34412,
           "isPrimary": true
         }
@@ -7840,7 +8600,9 @@
           "filePath": "whatAFriendWeHaveInJesus-D.pdf",
           "fileName": "whatAFriendWeHaveInJesus-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67735,
           "isPrimary": true
         }
@@ -7870,7 +8632,9 @@
           "filePath": "whatChildIsThis-leadSheet-Dm.pdf",
           "fileName": "whatChildIsThis-leadSheet-Dm.pdf",
           "key": "Dm",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 40824,
           "isPrimary": true
         }
@@ -7904,7 +8668,9 @@
           "filePath": "whatWondrousLoveIsThis-choral-Cm.pdf",
           "fileName": "whatWondrousLoveIsThis-choral-Cm.pdf",
           "key": "Cm",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 358399,
           "isPrimary": false
         },
@@ -7912,7 +8678,9 @@
           "filePath": "whatWondrousLoveIsThis-choral.pdf",
           "fileName": "whatWondrousLoveIsThis-choral.pdf",
           "key": "unknown",
-          "type": "Choral",
+          "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 339880,
           "isPrimary": false
         },
@@ -7920,7 +8688,9 @@
           "filePath": "whatWondrousLoveIsThis-chords-Cm.pdf",
           "fileName": "whatWondrousLoveIsThis-chords-Cm.pdf",
           "key": "Cm",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 66937,
           "isPrimary": true
         }
@@ -7956,7 +8726,9 @@
           "filePath": "whenGodTheSpiritCame-chords-c.pdf",
           "fileName": "whenGodTheSpiritCame-chords-c.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 88417,
           "isPrimary": true
         }
@@ -7988,7 +8760,9 @@
           "filePath": "whisperAPrayer-chords-E.pdf",
           "fileName": "whisperAPrayer-chords-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 63515,
           "isPrimary": true
         }
@@ -8019,7 +8793,9 @@
           "filePath": "who-you-say-i-am-G-orig.pdf",
           "fileName": "who-you-say-i-am-G-orig.pdf",
           "key": "Am",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 33222,
           "isPrimary": false
         },
@@ -8027,7 +8803,9 @@
           "filePath": "who-you-say-i-am-G.pdf",
           "fileName": "who-you-say-i-am-G.pdf",
           "key": "Am",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33041,
           "isPrimary": true
         }
@@ -8057,7 +8835,9 @@
           "filePath": "whom-shall-i-fear-god-of-angel-armies-G-orig.pdf",
           "fileName": "whom-shall-i-fear-god-of-angel-armies-G-orig.pdf",
           "key": "G",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34585,
           "isPrimary": false
         },
@@ -8065,7 +8845,9 @@
           "filePath": "whom-shall-i-fear-god-of-angel-armies-G.pdf",
           "fileName": "whom-shall-i-fear-god-of-angel-armies-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33911,
           "isPrimary": true
         }
@@ -8095,7 +8877,9 @@
           "filePath": "YetNotIButThroughChristInMe-chords-C.pdf",
           "fileName": "YetNotIButThroughChristInMe-chords-C.pdf",
           "key": "C",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 64511,
           "isPrimary": true
         },
@@ -8103,7 +8887,9 @@
           "filePath": "YetNotIButThroughChristInMe-lead-C.pdf",
           "fileName": "YetNotIButThroughChristInMe-lead-C.pdf",
           "key": "C",
-          "type": "Lead Sheet",
+          "type": "Lead",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 111095,
           "isPrimary": false
         },
@@ -8112,6 +8898,8 @@
           "fileName": "YetNotIButThroughChristInMe-vocal-C.pdf",
           "key": "C",
           "type": "Vocal",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 133710,
           "isPrimary": false
         }
@@ -8143,7 +8931,9 @@
           "filePath": "you-are-my-king-amazing-love-E-orig.pdf",
           "fileName": "you-are-my-king-amazing-love-E-orig.pdf",
           "key": "E",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 34765,
           "isPrimary": false
         },
@@ -8151,7 +8941,9 @@
           "filePath": "you-are-my-king-amazing-love-E.pdf",
           "fileName": "you-are-my-king-amazing-love-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 35066,
           "isPrimary": true
         }
@@ -8183,7 +8975,9 @@
           "filePath": "youDontLoveGodIfYouDontLoveYourNeighbor-E.pdf",
           "fileName": "youDontLoveGodIfYouDontLoveYourNeighbor-E.pdf",
           "key": "E",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 67279,
           "isPrimary": true
         }
@@ -8217,7 +9011,9 @@
           "filePath": "your-grace-is-enough-D-orig.pdf",
           "fileName": "your-grace-is-enough-D-orig.pdf",
           "key": "D",
-          "type": "Original",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
           "fileSize": 33096,
           "isPrimary": false
         },
@@ -8225,7 +9021,9 @@
           "filePath": "your-grace-is-enough-D.pdf",
           "fileName": "your-grace-is-enough-D.pdf",
           "key": "D",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 33276,
           "isPrimary": true
         }
@@ -8254,7 +9052,9 @@
           "filePath": "yourName-chords-G.pdf",
           "fileName": "yourName-chords-G.pdf",
           "key": "G",
-          "type": "Chord Chart",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": true,
           "fileSize": 97443,
           "isPrimary": true
         }

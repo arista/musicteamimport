@@ -11,6 +11,8 @@ interface Sheet {
   fileName: string;
   key: string;
   type: string;
+  typeOther: string;
+  includesVerseOrder: boolean;
   fileSize: number;
   isPrimary: boolean;
 }
@@ -48,12 +50,12 @@ const VALID_KEYS = [
 
 // Sheet type mappings from filename patterns
 const TYPE_PATTERNS: [RegExp, string][] = [
-  [/-lead/i, "Lead Sheet"],
-  [/-leadSheet/i, "Lead Sheet"],
+  [/-lead/i, "Lead"],
+  [/-leadSheet/i, "Lead"],
   [/-vocal/i, "Vocal"],
-  [/-choral/i, "Choral"],
-  [/-chords/i, "Chord Chart"],
-  [/-orig/i, "Original"],
+  [/-choral/i, "Vocal"],
+  [/-chords/i, "Chord"],
+  [/-hymn/i, "Hymn"],
 ];
 
 // Load config
@@ -103,22 +105,23 @@ function parseSheetType(fileName: string): string {
       return type;
     }
   }
-  return "Chord Chart"; // default
+  return "Chord"; // default
 }
 
 // Determine if this should be the primary sheet
-// Preference: chords > lead > others, non-orig > orig
+// Preference: chord > lead > others, with verse order > without
 function calculatePrimaryScore(sheet: Sheet): number {
   let score = 0;
 
-  if (sheet.type === "Chord Chart") score += 100;
-  else if (sheet.type === "Lead Sheet") score += 80;
+  if (sheet.type === "Chord") score += 100;
+  else if (sheet.type === "Lead") score += 80;
   else if (sheet.type === "Vocal") score += 60;
+  else if (sheet.type === "Hymn") score += 50;
   else score += 40;
 
-  // Penalize "Original" versions (usually CCLI downloads, less preferred)
-  if (sheet.fileName.toLowerCase().includes("-orig")) {
-    score -= 20;
+  // Prefer sheets that include verse order
+  if (sheet.includesVerseOrder) {
+    score += 10;
   }
 
   return score;
@@ -270,11 +273,16 @@ function processSongFolder(sheetsDir: string, folderName: string, globalNotes: s
     const key = parseKey(fileName);
     const type = parseSheetType(fileName);
 
+    // Check if this is an "original" file (without verse order written on it)
+    const isOriginal = /-orig/i.test(fileName) || /-original/i.test(fileName);
+
     const sheet: Sheet = {
       filePath,
       fileName,
       key,
       type,
+      typeOther: "",
+      includesVerseOrder: !isOriginal,
       fileSize: stats.size,
       isPrimary: false, // will be set later
     };

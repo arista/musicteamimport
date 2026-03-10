@@ -93,7 +93,9 @@ WORSHIP_SETS_ROOT=/claude-repos/cbcWorshipSets
 | `filePath` | string | yes | filesystem | Filename, relative to folderName |
 | `fileName` | string | yes | filesystem | Just filename |
 | `key` | string | yes | parsed | Musical key from filename |
-| `type` | string | yes | parsed | Sheet type from filename |
+| `type` | string | yes | parsed | Chord, Lead, Vocal, Hymn, or Other |
+| `typeOther` | string | no | user | Custom type if type is "Other" |
+| `includesVerseOrder` | boolean | yes | parsed | False for "-orig" files |
 | `fileSize` | number | yes | filesystem | Bytes |
 | `isPrimary` | boolean | yes | algorithm | Preferred version |
 
@@ -123,14 +125,15 @@ WORSHIP_SETS_ROOT=/claude-repos/cbcWorshipSets
 
 Extracted from filename → MusicTeam type:
 
-| Filename contains | MusicTeam type |
-|-------------------|----------------|
-| `-chords` | "Chord Chart" |
-| `-lead` | "Lead Sheet" |
-| `-vocal` | "Vocal" |
-| `-choral` | "Choral" |
-| `-orig` | "Original" |
-| (none/default) | "Chord Chart" |
+| Filename contains | Type |
+|-------------------|------|
+| `-chords` | Chord |
+| `-lead`, `-leadSheet` | Lead |
+| `-vocal`, `-choral` | Vocal |
+| `-hymn` | Hymn |
+| (none/default) | Chord |
+
+Files with `-orig` or `-original` in the name have `includesVerseOrder: false`.
 
 ## Key Parsing
 
