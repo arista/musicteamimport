@@ -197,10 +197,7 @@ function readLyrics(song: MySong): string {
   if (!song.lyricsFile) return "";
   const lyricsPath = join(worshipSetsRoot, "sheets", song.folderName, song.lyricsFile);
   try {
-    const content = readFileSync(lyricsPath, "utf-8");
-    // Skip the first 4 header lines (title, ccli, authors, copyright)
-    const lines = content.split("\n");
-    return lines.slice(4).join("\n").trim();
+    return readFileSync(lyricsPath, "utf-8");
   } catch {
     return "";
   }
@@ -517,12 +514,6 @@ async function importSongs() {
         }
       }
 
-      // Add comment if there are notes
-      if (mySong.notes && mySong.notes.trim()) {
-        await addComment(mtSongId!, mySong.notes);
-        console.log(`  Added comment`);
-      }
-
       // Create version
       const lyrics = readLyrics(mySong);
       const versionId = await createVersion(
@@ -537,6 +528,12 @@ async function importSongs() {
         song_id: mtSongId!,
         song_version_id: versionId,
       };
+
+      // Add comment if there are notes (attach to version, not song)
+      if (mySong.notes && mySong.notes.trim()) {
+        await addComment(versionId, mySong.notes);
+        console.log(`  Added comment`);
+      }
 
       // Create media links
       for (const mediaLink of mySong.mediaLinks) {
