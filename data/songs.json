@@ -2110,7 +2110,7 @@
       "title": "Forgive One Another",
       "ccliNumber": null,
       "authors": [],
-      "copyright": "(chorus)",
+      "copyright": null,
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "C V1 C V2 C",
@@ -2129,7 +2129,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli",
         "missing-authors"
@@ -2186,11 +2186,11 @@
       "id": "give-thanks",
       "folderName": "Give Thanks",
       "title": "Give Thanks",
-      "ccliNumber": null,
+      "ccliNumber": 20285,
       "authors": [
-        "1978 Integrity's Hosanna! Music"
+        "Henry Smith"
       ],
-      "copyright": "CCLI Song # 20285",
+      "copyright": "1978 Integrity's Hosanna! Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "C C V1 V1 C E",
@@ -2209,7 +2209,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -3230,17 +3230,17 @@
       "id": "how-firm-a-foundation",
       "folderName": "How Firm A Foundation",
       "title": "How Firm A Foundation",
-      "ccliNumber": null,
+      "ccliNumber": 107816,
       "authors": [],
-      "copyright": "",
-      "isPublicDomain": false,
-      "lyricsFile": null,
+      "copyright": "Words: Public Domain, Music: Public Domain",
+      "isPublicDomain": true,
+      "lyricsFile": "how-firm-a-foundation-lyrics.txt",
       "verseOrder": "",
       "sheets": [
         {
           "filePath": "how-firm-a-foundation-F-chords.pdf",
           "fileName": "how-firm-a-foundation-F-chords.pdf",
-          "key": "A",
+          "key": "F",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -3249,7 +3249,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-lyrics"
       ],
@@ -3364,26 +3364,30 @@
       "folderName": "I Am Thankful",
       "title": "I Am Thankful",
       "ccliNumber": null,
-      "authors": [],
-      "copyright": "",
+      "authors": [
+        "James Stevens",
+        "Angela Mae Killian",
+        "Joelle Einerson"
+      ],
+      "copyright": "©2022 Angie Killian, James Stevens, & Joelle Einerson",
       "isPublicDomain": false,
-      "lyricsFile": null,
-      "verseOrder": "",
+      "lyricsFile": "lyrics.txt",
+      "verseOrder": "V1 C V2 C B C E",
       "sheets": [
         {
           "filePath": "I Am Thankful - primary.pdf",
           "fileName": "I Am Thankful - primary.pdf",
-          "key": "unknown",
+          "key": "C",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 104378,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "I Am Thankful - simplified.pdf",
           "fileName": "I Am Thankful - simplified.pdf",
-          "key": "unknown",
+          "key": "C",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -3393,7 +3397,7 @@
         {
           "filePath": "I Am Thankful - studio (advanced).pdf",
           "fileName": "I Am Thankful - studio (advanced).pdf",
-          "key": "unknown",
+          "key": "C",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -3408,11 +3412,11 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 68456,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-lyrics",
         "key-unknown"
@@ -3482,10 +3486,10 @@
     {
       "id": "i-have-a-friend-in-jesus",
       "folderName": "I Have A Friend In Jesus",
-      "title": "I Have A Friend In Jesus",
+      "title": "I Have a Friend in Jesus (Yo Tengo un Amigo)",
       "ccliNumber": null,
       "authors": [],
-      "copyright": "(verse 1)",
+      "copyright": "Group Publishing",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 V1 V2 V1 E",
@@ -3493,7 +3497,7 @@
         {
           "filePath": "IHaveAFriendInJesus.pdf",
           "fileName": "IHaveAFriendInJesus.pdf",
-          "key": "unknown",
+          "key": "D",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -3504,7 +3508,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli",
         "missing-authors",
@@ -3758,12 +3762,13 @@
       "id": "i-will-sing-of-my-redeemer",
       "folderName": "I Will Sing Of My Redeemer",
       "title": "I Will Sing of My Redeemer",
-      "ccliNumber": null,
+      "ccliNumber": 644128,
       "authors": [
-        "CCLI Song # 644128"
+        "Philip Paul Bliss",
+        "Rowland Hugh Prichard"
       ],
-      "copyright": "Philip Paul Bliss | Rowland Hugh Prichard",
-      "isPublicDomain": false,
+      "copyright": "© Words: Public Domain; Music: Public Domain",
+      "isPublicDomain": true,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C V3 C V4 C",
       "sheets": [
@@ -3778,8 +3783,10 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "flagged",
+      "tags": [
+        "good-friday"
+      ],
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -4270,11 +4277,15 @@
       "id": "joy-to-the-world-unspeakable-joy",
       "folderName": "Joy to the World (Unspeakable Joy)",
       "title": "Joy to the World (Unspeakable Joy)",
-      "ccliNumber": null,
+      "ccliNumber": 5607039,
       "authors": [
-        "(verse 1)"
+        "Chris Tomlin",
+        "Ed Cash",
+        "George Frideric Handel",
+        "Isaac Watts",
+        "Matt Gilder"
       ],
-      "copyright": "Joy to the world the Lord is come",
+      "copyright": "© Rising Springs Music; Vamos Publishing; worshiptogether.com songs; Ryan House Music; Wondrously Made Songs",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 V2 C V3 C",
@@ -4291,9 +4302,10 @@
         }
       ],
       "tags": [
-        "advent"
+        "advent",
+        "christmas"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -4384,7 +4396,8 @@
       "title": "Let Your Heart Be Broken",
       "ccliNumber": null,
       "authors": [
-        "Music: James Mountain, 1876"
+        "Bryan Jeffery Leach",
+        "James Mountain"
       ],
       "copyright": "Words Copyright 1975 The Evangelical Covenant Church",
       "isPublicDomain": false,
@@ -4403,7 +4416,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -4418,9 +4431,11 @@
       "title": "Light After Darkness",
       "ccliNumber": null,
       "authors": [
-        "Frances Ridley Havergal"
+        "Frances Ridley Havergal",
+        "Brian Eichelberger",
+        "Chad Gardner"
       ],
-      "copyright": "Brian Eichelberger, Chad Gardner",
+      "copyright": "© 2014 Asaphs Arrows; Moms Like Us Too",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C C V2 C C",
@@ -4436,10 +4451,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "flagged",
+      "tags": [],
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -4453,11 +4466,9 @@
       "folderName": "Lo, How a Rose E'er Blooming",
       "title": "Lo, How a Rose E'er Blooming",
       "ccliNumber": null,
-      "authors": [
-        "(verse 1)"
-      ],
-      "copyright": "Lo! How a rose e'er blooming",
-      "isPublicDomain": false,
+      "authors": [],
+      "copyright": null,
+      "isPublicDomain": true,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 V2 V3",
       "sheets": [
@@ -4475,7 +4486,7 @@
       "tags": [
         "christmas"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -4634,11 +4645,12 @@
       "id": "love-lifted-me",
       "folderName": "Love Lifted Me",
       "title": "Love Lifted Me",
-      "ccliNumber": null,
+      "ccliNumber": 7107590,
       "authors": [
-        "(verse)"
+        "Philip Nathan Thompson",
+        "Zenzo Matoga"
       ],
-      "copyright": "Glory, glory to God in the highest",
+      "copyright": "© Zenzo Matoga Music; Philthompsonworship",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V1 C B B B B E",
@@ -4646,7 +4658,7 @@
         {
           "filePath": "loveLiftedMe.pdf",
           "fileName": "loveLiftedMe.pdf",
-          "key": "unknown",
+          "key": "C",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -4655,7 +4667,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli",
         "key-unknown"
@@ -4854,11 +4866,12 @@
       "id": "moving-forward",
       "folderName": "Moving Forward",
       "title": "Moving Forward",
-      "ccliNumber": null,
+      "ccliNumber": 4992525,
       "authors": [
-        "(verse 1)"
+        "Israel Houghton",
+        "Ricardo Sanchez"
       ],
-      "copyright": "What a moment You have brought me to",
+      "copyright": "© 2007 Integrity's Hosanna! Music; Integrity's Praise! Music; New Breed Extended; Ricardo Music Dot Com; Sound Of The New Breed",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C B E E E E",
@@ -4885,7 +4898,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -5624,11 +5637,11 @@
       "id": "one-race-one-gospel-one-task",
       "folderName": "One Race, One Gospel, One Task",
       "title": "One Race, One Gospel, One Task (hymn 735)",
-      "ccliNumber": null,
+      "ccliNumber": 1718709,
       "authors": [
-        "CCLI Song # 1718709"
+        "Margaret Clarkson"
       ],
-      "copyright": "Margaret Clarkson",
+      "copyright": "© 1966, 1987 Hope Publishing Company",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 V2 V3 V4",
@@ -5645,7 +5658,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -5878,9 +5891,10 @@
       "id": "praise-the-father-praise-the-son",
       "folderName": "Praise The Father Praise The Son",
       "title": "Praise The Father Praise The Son",
-      "ccliNumber": null,
+      "ccliNumber": 5203251,
       "authors": [
-        "CCLI Song # 5203251"
+        "Chris Tomlin",
+        "Ed Cash"
       ],
       "copyright": "© 2008 Rising Springs Music (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
@@ -5919,7 +5933,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -6158,10 +6172,8 @@
       "folderName": "Romans5_8",
       "title": "Romans 5:8",
       "ccliNumber": null,
-      "authors": [
-        "(chorus)"
-      ],
-      "copyright": "Ro-Ro-Ro-Romans",
+      "authors": [],
+      "copyright": null,
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "C V1 C V1",
@@ -6169,7 +6181,7 @@
         {
           "filePath": "Romans5_8.pdf",
           "fileName": "Romans5_8.pdf",
-          "key": "unknown",
+          "key": "E",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -6180,7 +6192,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli",
         "key-unknown"
@@ -6519,11 +6531,12 @@
       "id": "sing-to-the-king",
       "folderName": "Sing To The King",
       "title": "Sing to the King",
-      "ccliNumber": null,
+      "ccliNumber": 4010902,
       "authors": [
-        "(verse 1)"
+        "Billy J. Foote",
+        "Charles Silvester Horne"
       ],
-      "copyright": "Sing to the King",
+      "copyright": "© 2003 sixsteps Music; worshiptogether.com songs",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C C",
@@ -6559,10 +6572,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "flagged",
+      "tags": [],
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -6575,14 +6586,16 @@
       "id": "so-will-i",
       "folderName": "So Will I",
       "title": "So Will I (100 Billion X)",
-      "ccliNumber": null,
+      "ccliNumber": 7084123,
       "authors": [
-        "CCLI Song #7084123"
+        "Benjamin Hastings",
+        "Joel Houston",
+        "Michael Fatkin"
       ],
       "copyright": "© 2017 Hillsong Music Publishing Australia",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 V3 E",
+      "verseOrder": "V1 C1 V2 C2 B1 B2 V3 C3 E",
       "sheets": [
         {
           "filePath": "soWillI-chords-C.pdf",
@@ -6605,10 +6618,8 @@
           "isPrimary": false
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "flagged",
+      "tags": [],
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -6686,13 +6697,11 @@
       "folderName": "Spirit of God",
       "title": "Spirit of God",
       "ccliNumber": null,
-      "authors": [
-        "https://www.youtube.com/watch?v=iOHbZxjOmG0)"
-      ],
+      "authors": [],
       "copyright": "",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 V3",
+      "verseOrder": "V1 V2 V3 E",
       "sheets": [
         {
           "filePath": "SpiritOfGod_C_chords.pdf",
@@ -6709,7 +6718,7 @@
         "kids",
         "pentecost"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -6942,14 +6951,15 @@
       "id": "taste-of-eternity",
       "folderName": "Taste of Eternity",
       "title": "Taste Of Eternity",
-      "ccliNumber": null,
+      "ccliNumber": 6191410,
       "authors": [
-        "CCLI Song #6191410"
+        "Jason Ingram",
+        "Sean Curran"
       ],
       "copyright": "© 2011 Worship Together Music; So Essential Tunes; Spirit Nashville Three; Windsor Hill Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 B",
+      "verseOrder": "V1 C1 V2 C2 B C1 C1",
       "sheets": [
         {
           "filePath": "tasteOfEternity-chords-E.pdf",
@@ -6963,7 +6973,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -7382,10 +7392,8 @@
       "folderName": "The Lord's Prayer (Children's Edition)",
       "title": "The Lord's Prayer (Children's Edition)",
       "ccliNumber": null,
-      "authors": [
-        "(chorus)"
-      ],
-      "copyright": "Our Father, which art in heaven",
+      "authors": [],
+      "copyright": null,
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "C V1 B C V2 C E",
@@ -7404,7 +7412,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -7598,11 +7606,15 @@
       "id": "the-wonderful-cross",
       "folderName": "The Wonderful Cross",
       "title": "The Wonderful Cross",
-      "ccliNumber": null,
+      "ccliNumber": 3148435,
       "authors": [
-        "2000 sixsteps MusicVamos Publishing"
+        "Chris Tomlin",
+        "Isaac Watts",
+        "J. D. Walt",
+        "Jesse Reeves",
+        "Lowell Mason"
       ],
-      "copyright": "CCLI Song # 3148435",
+      "copyright": "2000 sixsteps MusicVamos Publishing",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 V2 C V3 C",
@@ -7638,8 +7650,10 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "flagged",
+      "tags": [
+        "good-friday"
+      ],
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -7989,9 +8003,10 @@
       "id": "tiny-little-me",
       "folderName": "Tiny Little Me",
       "title": "Tiny Little Me",
-      "ccliNumber": null,
+      "ccliNumber": 3982213,
       "authors": [
-        "CCLI Song #3982213"
+        "Jo Hemming",
+        "Nigel Hemming"
       ],
       "copyright": "© 2003 Vineyard Songs (UK/Eire)",
       "isPublicDomain": false,
@@ -8012,7 +8027,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -8025,12 +8040,15 @@
       "id": "tis-so-sweet-to-trust-in-jesus",
       "folderName": "Tis So Sweet To Trust In Jesus",
       "title": "Tis So Sweet To Trust In Jesus",
-      "ccliNumber": null,
-      "authors": [],
-      "copyright": "",
-      "isPublicDomain": false,
-      "lyricsFile": null,
-      "verseOrder": "",
+      "ccliNumber": 22609,
+      "authors": [
+        "Louisa M. R. Stead",
+        "William James Kirkpatrick"
+      ],
+      "copyright": "Words: Public Domain, Music: Public Domain",
+      "isPublicDomain": true,
+      "lyricsFile": "tis-so-sweet-to-trust-in-jesus-lyrics.txt",
+      "verseOrder": "V1 C V2 C V3 C V4 C",
       "sheets": [
         {
           "filePath": "tis-so-sweet-to-trust-in-jesus-D-chords.pdf",
@@ -8066,7 +8084,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-lyrics"
       ],
@@ -8117,12 +8135,14 @@
       "id": "trading-my-sorrows",
       "folderName": "Trading My Sorrows",
       "title": "Trading My Sorrows",
-      "ccliNumber": null,
-      "authors": [],
-      "copyright": "",
+      "ccliNumber": 2574653,
+      "authors": [
+        "Darrell Evans"
+      ],
+      "copyright": "1998 Integrity's Hosanna! Music (Admin. by Integrity Music)",
       "isPublicDomain": false,
-      "lyricsFile": null,
-      "verseOrder": "",
+      "lyricsFile": "trading-my-sorrows-lyrics-plural.txt",
+      "verseOrder": "V C V C B V C",
       "sheets": [
         {
           "filePath": "trading-my-sorrows-plural-G-chords.pdf",
@@ -8136,7 +8156,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-lyrics"
       ],
@@ -8149,11 +8169,12 @@
       "id": "trust-and-obey",
       "folderName": "Trust And Obey",
       "title": "Trust and Obey",
-      "ccliNumber": null,
+      "ccliNumber": 22094,
       "authors": [
-        "Words: Public Domain, Music: 2010 Belden Street Music Publishing"
+        "John Henry Sammis",
+        "Daniel Brink Towner"
       ],
-      "copyright": "CCLI Song # 7056336",
+      "copyright": "Words: Public Domain, Music: Public Domain",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C V3 C V4 C",
@@ -8192,7 +8213,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -8205,11 +8226,11 @@
       "id": "trust-in-the-lord",
       "folderName": "Trust in the Lord",
       "title": "Trust in the Lord",
-      "ccliNumber": null,
+      "ccliNumber": 524860,
       "authors": [
-        "℗ 1990 Sparrow Records"
+        "Frank Hernandez"
       ],
-      "copyright": "Proverbs 3:5-6",
+      "copyright": "© 1990 Birdwing Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "",
@@ -8228,7 +8249,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -8241,12 +8262,13 @@
       "id": "trusting-jesus",
       "folderName": "Trusting Jesus",
       "title": "Trusting Jesus",
-      "ccliNumber": null,
+      "ccliNumber": 22537,
       "authors": [
-        "CCLI Song # 22537"
+        "Edgar Page Stites",
+        "Ira David Sankey"
       ],
-      "copyright": "Edgar Page Stites | Ira David Sankey",
-      "isPublicDomain": false,
+      "copyright": "© Words: Public Domain; Music: Public Domain",
+      "isPublicDomain": true,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C V3 C V4 C",
       "sheets": [
@@ -8264,7 +8286,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -8391,11 +8413,11 @@
       "id": "we-are-called-to-be-gods-people",
       "folderName": "We Are Called To Be God's People",
       "title": "We Are Called to Be God's People (hymn 710)",
-      "ccliNumber": null,
+      "ccliNumber": 2781673,
       "authors": [
-        "CCLI Song # 2781673"
+        "Thomas A. Jackson"
       ],
-      "copyright": "Thomas A. Jackson",
+      "copyright": "© 1975 Broadman Press (Admin. by Music Services, Inc.)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 V2 V3",
@@ -8412,7 +8434,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -8730,9 +8752,9 @@
       "id": "when-god-the-spirit-came",
       "folderName": "When God The Spirit Came",
       "title": "When God The Spirit Came",
-      "ccliNumber": null,
+      "ccliNumber": 3279249,
       "authors": [
-        "Music: Samuel S. Wesley"
+        "Timothy Dudley-Smith"
       ],
       "copyright": "Copyright 1984 Hope Publishing Company",
       "isPublicDomain": false,
@@ -8750,8 +8772,10 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "flagged",
+      "tags": [
+        "pentecost"
+      ],
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -8881,9 +8905,11 @@
       "id": "yet-not-i-but-through-christ-in-me",
       "folderName": "Yet Not I But Through Christ In Me",
       "title": "Yet Not I But Through Christ In Me",
-      "ccliNumber": null,
+      "ccliNumber": 7121852,
       "authors": [
-        "CCLI Song #7121852"
+        "Jonny Robinson",
+        "Michael Farren",
+        "Rich Thompson"
       ],
       "copyright": "© 2018 CityAlight Music; Farren Love And War Publishing; Integrity's Alleluia! Music",
       "isPublicDomain": false,
@@ -8922,7 +8948,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
