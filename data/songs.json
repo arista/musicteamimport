@@ -2927,7 +2927,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -2958,7 +2958,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3021,7 +3021,7 @@
       "tags": [
         "palm-sunday"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3104,13 +3104,15 @@
           "key": "E",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 93269,
           "isPrimary": false
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "palm-sunday"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3151,10 +3153,9 @@
         }
       ],
       "tags": [
-        "advent",
         "palm-sunday"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3271,10 +3272,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "epiphany"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3329,7 +3328,7 @@
       "tags": [
         "advent"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"How Long O Lord How Long (Psalm 13)\") differs from folder name (\"How Long, O Lord, How Long?\")"
@@ -3447,8 +3446,11 @@
           "isPrimary": false
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "advent",
+        "good-friday"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3542,7 +3544,7 @@
       "copyright": "© 2019 BEC Worship; Raina Pratt Publishing Designee; WriterWrong Music; For Me and My House Songs; Integrity's Praise! Music; Worship Coalition Songs",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 C V3 C C V4 C C V1",
+      "verseOrder": "V1 V2 C V3 C C V4 V4 C C V1",
       "sheets": [
         {
           "filePath": "ISpeakJesus-chords-G-orig.pdf",
@@ -3576,7 +3578,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3616,7 +3618,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3667,10 +3669,9 @@
         }
       ],
       "tags": [
-        "good-friday",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3708,7 +3709,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 41251,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "i-will-follow-Bb.pdf",
@@ -3718,11 +3719,11 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 36967,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3782,7 +3783,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 167046,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "i-will-sing-of-the-mercies-C-orig.pdf",
@@ -3802,14 +3803,13 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 28091,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [
-        "epiphany",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~",
@@ -3853,12 +3853,10 @@
         }
       ],
       "tags": [
-        "advent",
         "easter",
-        "epiphany",
         "good-friday"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3918,7 +3916,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -3973,7 +3971,7 @@
       "copyright": "© 2018 Capitol CMG Genesis; Junkbox Music; Vamos Publishing; Jakedog Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 V3 E",
+      "verseOrder": "V1 V2 C1 V3 C2 E",
       "sheets": [
         {
           "filePath": "isHeWorthy-chords-Bb.pdf",
@@ -3981,7 +3979,7 @@
           "key": "Bb",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 61909,
           "isPrimary": true
         },
@@ -3991,7 +3989,7 @@
           "key": "Bb",
           "type": "Lead",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 159894,
           "isPrimary": false
         },
@@ -4001,15 +3999,13 @@
           "key": "Bb",
           "type": "Vocal",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 251567,
           "isPrimary": false
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Is He Worthy?\") differs from folder name (\"Is He Worthy\")"
@@ -4035,15 +4031,17 @@
           "key": "C",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 324946,
           "isPrimary": true
         }
       ],
       "tags": [
+        "advent",
+        "christmas",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4118,10 +4116,8 @@
           "isPrimary": false
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4233,7 +4229,7 @@
         "advent",
         "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~",
@@ -4315,9 +4311,9 @@
       ],
       "tags": [
         "advent",
-        "palm-sunday"
+        "easter"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4348,7 +4344,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4486,7 +4482,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4506,7 +4502,7 @@
       "copyright": "© 2011 sixsteps Music (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 B",
+      "verseOrder": "V1 C1 V2 C1 B C1 C2",
       "sheets": [
         {
           "filePath": "lordINeedYou-F-chords-orig.pdf",
@@ -4569,10 +4565,8 @@
           "isPrimary": false
         }
       ],
-      "tags": [
-        "good-friday"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4602,7 +4596,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4679,7 +4673,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Love Lifted Me\") differs from folder name (\"Love Lifted Me (Rowe)\")"
@@ -4713,7 +4707,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4756,7 +4750,7 @@
       "tags": [
         "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4781,13 +4775,13 @@
           "key": "G",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 80487,
           "isPrimary": true
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4898,7 +4892,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~, myGodIsSoBig_F_chords.txt~",
@@ -4942,7 +4936,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4973,7 +4967,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -4997,7 +4991,7 @@
           "key": "D",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 84402,
           "isPrimary": true
         }
@@ -5005,7 +4999,7 @@
       "tags": [
         "easter"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5036,7 +5030,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~",
@@ -5064,13 +5058,15 @@
           "key": "D",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 63059,
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "kids"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5156,9 +5152,10 @@
         }
       ],
       "tags": [
-        "advent"
+        "advent",
+        "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5200,7 +5197,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Nothing But The Blood (Plainfield)\") differs from folder name (\"Nothing But The Blood of Jesus\")"
@@ -5243,10 +5240,10 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "This version seems to be missing the bridge"
     },
     {
       "id": "now-unto-the-king-eternal",
@@ -5275,7 +5272,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~",
@@ -5309,7 +5306,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5385,7 +5382,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 329770,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "OComeOComeEmmanuel_chords_Dm.pdf",
@@ -5405,7 +5402,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 67486,
-          "isPrimary": false
+          "isPrimary": true
         },
         {
           "filePath": "OComeOComeEmmanuel_vocal-Dm.pdf",
@@ -5422,7 +5419,7 @@
         "advent",
         "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5452,10 +5449,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "epiphany"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5488,7 +5483,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"O How I Love Jesus (There Is A Name)\") differs from folder name (\"O How I Love Jesus\")",
@@ -5525,7 +5520,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"O How I Love Jesus (There Is A Name) (hymn 509)\") differs from folder name (\"O How I Love Jesus (There Is A Name I Love To Hear)\")"
@@ -5589,10 +5584,9 @@
       ],
       "tags": [
         "advent",
-        "christmas",
-        "epiphany"
+        "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5669,10 +5663,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5712,7 +5704,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5755,7 +5747,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5772,7 +5764,7 @@
       "copyright": "© 2007 Thankyou Music; Integrity's Hosanna! Music; Leadworship Songs",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V1 P V1 P P E",
+      "verseOrder": "V V PC C V PC C C2 PC C C2 E",
       "sheets": [
         {
           "filePath": "our-god-saves-chords-B-orig.pdf",
@@ -5790,9 +5782,9 @@
           "key": "B",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 78642,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "our-god-saves-chords-C-orig.pdf",
@@ -5812,13 +5804,11 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 34117,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5850,7 +5840,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5945,7 +5935,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -5987,10 +5977,10 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "Pastor Dan has asked us not to play this one"
     },
     {
       "id": "reign-in-us",
@@ -6005,7 +5995,7 @@
       "copyright": "© 2008 Birdwing Music; Fieldstar Music; Screaming Norman Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C B C C",
+      "verseOrder": "V1 C V2 C B C2 C2",
       "sheets": [
         {
           "filePath": "reign-in-us-F-orig.pdf",
@@ -6039,7 +6029,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6079,7 +6069,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6095,7 +6085,7 @@
       "copyright": "Candied Jam Music; Savgos Music, Inc.; Peermusic III, Ltd.",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "E",
+      "verseOrder": "C1 C1 C2 C2 C1 C2 C2 C3 C3 C2 C2 C3+C2 C3+C2 C3",
       "sheets": [
         {
           "filePath": "revelations19_1-chords-D-orig.pdf",
@@ -6129,7 +6119,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6186,7 +6176,7 @@
       "copyright": "© Capitol CMG Paragon; Writer's Roof Publishing; Be Essential Songs; I Am A Pilgrim Songs; Songs From Richmond Park",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C B E",
+      "verseOrder": "V1 C V2 C B C C E",
       "sheets": [
         {
           "filePath": "runToTheFather-chords-F-orig.pdf",
@@ -6220,7 +6210,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6259,8 +6249,12 @@
           "isPrimary": false
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "advent",
+        "christmas",
+        "kids"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6292,7 +6286,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6308,7 +6302,7 @@
       "copyright": "© 1987 Integrity's Hosanna! Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2",
+      "verseOrder": "C1 V1 C2 V2 C1",
       "sheets": [
         {
           "filePath": "shoutHosanna-chords-G.pdf",
@@ -6316,7 +6310,7 @@
           "key": "G",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 30365,
           "isPrimary": true
         }
@@ -6325,7 +6319,7 @@
         "kids",
         "palm-sunday"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6341,7 +6335,7 @@
       "copyright": "© 1993 Wondrous Worship (Admin. by Music Services, Inc.)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V1 C C",
+      "verseOrder": "V1 C V1 C C E",
       "sheets": [
         {
           "filePath": "shout-to-the-lord-A-orig.pdf",
@@ -6365,7 +6359,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6417,7 +6411,7 @@
       "tags": [
         "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Silent Night, Holy Night\") differs from folder name (\"Silent Night\")",
@@ -6453,7 +6447,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6484,7 +6478,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~",
@@ -6620,7 +6614,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Softly and Tenderly Jesus Is Calling (hymn 441)\") differs from folder name (\"Softly And Tenderly Jesus Is Calling\")"
@@ -6653,7 +6647,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6716,7 +6710,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 32108,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "standing-on-the-promises-promises-G-orig.pdf",
@@ -6736,13 +6730,13 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 32916,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics-kids.txt~",
@@ -6795,7 +6789,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6814,7 +6808,7 @@
       "copyright": "© 2003 sixsteps Music (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 C V3 C",
+      "verseOrder": "V1 V2 C V3 C C V1a",
       "sheets": [
         {
           "filePath": "take-my-life-C-orig.pdf",
@@ -6837,10 +6831,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "palm-sunday"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6871,7 +6863,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6912,7 +6904,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -6986,9 +6978,11 @@
         }
       ],
       "tags": [
+        "christmas",
+        "good-friday",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7020,7 +7014,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7039,7 +7033,7 @@
       "copyright": "© 2020 Capitol CMG Paragon; Kari Jobe Carnes Music; Worship Together Music; Writer's Roof Publishing; Music by Elevation Worship Publishing",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V1 C E C C",
+      "verseOrder": "V1 C V1 C B1 B1 B2 B3 T C C",
       "sheets": [
         {
           "filePath": "theBlessing-chords-B.pdf",
@@ -7063,7 +7057,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7079,7 +7073,7 @@
       "copyright": "© 1966 Manna Music, Inc. (Admin. by Gaither Copyright Management)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C V1 C V2 C",
+      "verseOrder": "V1 C V2 C V1 C V2 C E",
       "sheets": [
         {
           "filePath": "TheBloodWillNeverLoseItsPower-Ab-Choral.pdf",
@@ -7109,7 +7103,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 32160,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "the-blood-will-never-lose-its-power-G.pdf",
@@ -7119,11 +7113,11 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 32125,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7147,7 +7141,7 @@
       "copyright": "© 2025 Brian and Jenn Publishing; David Funk; Elyssa Marie Music; Juan Sebastian Suarez; Julian Gamboa Publishing; KPS 1.0; Oscar Daniel Gamboa Publishing; sixsteps Music; UR Creative; worshiptogether.com songs; Bethel Music Publishing; Remaining portion is unaffiliated",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 P C V2 C B B C V3 C E",
+      "verseOrder": "V1 P C1a V2 C1b B B C1a V3 C1c T",
       "sheets": [
         {
           "filePath": "theChurch-F-capo1-chords-orig.pdf",
@@ -7201,7 +7195,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7231,9 +7225,10 @@
         }
       ],
       "tags": [
-        "epiphany"
+        "advent",
+        "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
