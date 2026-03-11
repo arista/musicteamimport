@@ -263,7 +263,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: allHailThePowerOfJesusName-D.odt, allHailThePowerOfJesusName-E.odt"
@@ -3197,7 +3197,7 @@
       "tags": [
         "good-friday"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7268,7 +7268,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Skipped non-standard files: lyrics.txt~",
@@ -7301,10 +7301,9 @@
         }
       ],
       "tags": [
-        "advent",
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7344,7 +7343,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7430,7 +7429,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7447,7 +7446,7 @@
       "copyright": "© 2005 Thankyou Music (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 V3 V4",
+      "verseOrder": "V1 C1 V2 C1 V3 C1 V4 C2",
       "sheets": [
         {
           "filePath": "ThePowerOfTheCross-lead-A.pdf",
@@ -7493,7 +7492,7 @@
       "tags": [
         "good-friday"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7561,7 +7560,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7657,7 +7656,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7697,10 +7696,9 @@
         }
       ],
       "tags": [
-        "easter",
-        "palm-sunday"
+        "easter"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7717,7 +7715,7 @@
       "copyright": "© 2014 Hillsong Music Publishing Australia (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 B E",
+      "verseOrder": "V1 C1 V2 C1 B C1 C2 E",
       "sheets": [
         {
           "filePath": "this-i-believe-the-creed-G-orig.pdf",
@@ -7740,10 +7738,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "epiphany"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7771,7 +7767,7 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 34791,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "this-is-amazing-grace-F-orig.pdf",
@@ -7791,13 +7787,13 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 35219,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7828,7 +7824,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7852,7 +7848,7 @@
           "key": "D",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 29575,
           "isPrimary": true
         }
@@ -7860,7 +7856,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7892,7 +7888,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7922,7 +7918,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -7953,7 +7949,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Thy Mercy My God\") differs from folder name (\"Thy Mercy, My God\")"
@@ -8274,10 +8270,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "good-friday"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8327,7 +8321,7 @@
       "copyright": "© 2016 Integrity Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V1 C V2 V3 C E B C E",
+      "verseOrder": "V1 V1 C V2 V3 C T B C T",
       "sheets": [
         {
           "filePath": "wayMaker-chords-G-orig.pdf",
@@ -8361,7 +8355,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8436,7 +8430,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8460,7 +8454,7 @@
           "key": "F",
           "type": "Chord",
           "typeOther": "",
-          "includesVerseOrder": true,
+          "includesVerseOrder": false,
           "fileSize": 33642,
           "isPrimary": true
         },
@@ -8496,9 +8490,10 @@
         }
       ],
       "tags": [
+        "christmas",
         "epiphany"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8528,9 +8523,9 @@
         }
       ],
       "tags": [
-        "advent"
+        "epiphany"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8547,7 +8542,7 @@
       "copyright": "© 2016 Hillsong Music Publishing Australia (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 B",
+      "verseOrder": "V1 C1 V2 C2 B C3 E",
       "sheets": [
         {
           "filePath": "what-a-beautiful-name-C-orig.pdf",
@@ -8570,8 +8565,10 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "pending",
+      "tags": [
+        "easter"
+      ],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8601,10 +8598,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "good-friday"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8634,9 +8629,10 @@
         }
       ],
       "tags": [
-        "advent"
+        "advent",
+        "christmas"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"What Child Is This (Greensleeves)\") differs from folder name (\"What Child Is This\")",
@@ -8764,7 +8760,7 @@
       "tags": [
         "kids"
       ],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8781,7 +8777,7 @@
       "copyright": "© 2017 Hillsong Music Publishing Australia (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 V2 B B E",
+      "verseOrder": "V1 C1 V2 C1 C2 B B T C1 C2 C2",
       "sheets": [
         {
           "filePath": "who-you-say-i-am-G-orig.pdf",
@@ -8805,7 +8801,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -8823,7 +8819,7 @@
       "copyright": "© 2012 Capitol CMG Paragon (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 C V2 C B B C C",
+      "verseOrder": "V1 C V2 C B B C C E",
       "sheets": [
         {
           "filePath": "whom-shall-i-fear-god-of-angel-armies-G-orig.pdf",
@@ -8847,7 +8843,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"Whom Shall I Fear (God of Angel Armies)\") differs from folder name (\"Whom Shall I Fear\")"
@@ -8942,10 +8938,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "epiphany"
-      ],
-      "status": "pending",
+      "tags": [],
+      "status": "verified",
       "flags": [],
       "extractionNotes": [
         "Title in lyrics.txt (\"You Are My King (Amazing Love)\") differs from folder name (\"You Are My King\")"
@@ -8999,7 +8993,7 @@
       "copyright": "© 2003 Thankyou Music (Admin. by Capitol CMG Publishing)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
-      "verseOrder": "V1 P C V2 P C",
+      "verseOrder": "V1 P C V2 P C C2",
       "sheets": [
         {
           "filePath": "your-grace-is-enough-D-orig.pdf",
@@ -9023,7 +9017,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""
@@ -9054,7 +9048,7 @@
         }
       ],
       "tags": [],
-      "status": "pending",
+      "status": "verified",
       "flags": [],
       "extractionNotes": [],
       "notes": ""

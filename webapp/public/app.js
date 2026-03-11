@@ -250,7 +250,7 @@ function renderDetailPanel() {
                 </label>
               </div>
             </div>
-            <button onclick="previewPdf('${escapeHtml(song.folderName)}', '${escapeHtml(sheet.fileName)}')">View</button>
+            <button onclick="previewPdf('${escapeJsStr(song.folderName)}', '${escapeJsStr(sheet.fileName)}')">View</button>
           </div>
         `).join('')}
         ${song.sheets.length === 0 ? '<div class="sheet-item">No PDF sheets found</div>' : ''}
@@ -388,6 +388,13 @@ function escapeHtml(str) {
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;');
+}
+
+function escapeJsStr(str) {
+  if (!str) return '';
+  return str.toString()
+    .replace(/\'/g, "\\\'")
+    .replace(/\"/g, "\\\"");
 }
 
 function formatBytes(bytes) {
