@@ -10,6 +10,7 @@
     "fetch-musicteam": "npx tsx scripts/fetch-musicteam.ts",
     "reconcile": "npx tsx scripts/reconcile.ts",
     "generate-plan": "npx tsx scripts/generate-plan.ts",
+    "import": "npx tsx scripts/import.ts",
     "verify": "npx tsx webapp/server.ts"
   },
   "dependencies": {

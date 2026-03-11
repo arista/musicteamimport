@@ -94,4 +94,7 @@ For each song in my library:
 * In my songs.json:
     * For each song, add `musicteam: {song_id: ..., song_version_id: ...}`
     * For each sheet add `musicteam: {song_sheet_id: ...}`
-    
+
+Note that the target site might get overwhelmed quickly.  Add a mandatory "delay" CLI argument, specified in seconds, which waits that long between importing each song.
+
+Update the songs.json file after every song.  Use the presence of the "musicteam" properties as an indicator for which songs still need to be processed.  Hopefully this will let the script be restarted if interrupted.
