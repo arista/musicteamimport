@@ -27,6 +27,7 @@ interface Song {
   isPublicDomain: boolean;
   lyricsFile: string | null;
   verseOrder: string;
+  mediaLinks: string[];
   sheets: Sheet[];
   tags: string[];
   status: "pending" | "verified" | "flagged" | "skipped" | "imported";
@@ -135,6 +136,7 @@ function parseLyricsFile(filePath: string): {
   copyright: string;
   isPublicDomain: boolean;
   verseOrder: string;
+  mediaLinks: string[];
 } {
   const content = readFileSync(filePath, "utf-8");
   const lines = content.split("\n");
@@ -164,7 +166,12 @@ function parseLyricsFile(filePath: string): {
   // Parse verse order from section markers in lyrics
   const verseOrder = parseVerseOrder(content);
 
-  return { title, ccliNumber, authors, copyright, isPublicDomain, verseOrder };
+  // Extract media links (URLs)
+  const urlPattern = /https?:\/\/[^\s<>")\]]+/gi;
+  const matches = content.match(urlPattern) || [];
+  const mediaLinks = [...new Set(matches)]; // dedupe
+
+  return { title, ccliNumber, authors, copyright, isPublicDomain, verseOrder, mediaLinks };
 }
 
 // Parse verse order from lyrics content
@@ -209,6 +216,7 @@ function processSongFolder(sheetsDir: string, folderName: string, globalNotes: s
   let copyright = "";
   let isPublicDomain = false;
   let verseOrder = "";
+  let mediaLinks: string[] = [];
   let lyricsFile: string | null = null;
 
   if (existsSync(lyricsPath)) {
@@ -221,6 +229,7 @@ function processSongFolder(sheetsDir: string, folderName: string, globalNotes: s
       copyright = parsed.copyright;
       isPublicDomain = parsed.isPublicDomain;
       verseOrder = parsed.verseOrder;
+      mediaLinks = parsed.mediaLinks;
 
       if (!ccliNumber && !isPublicDomain) {
         flags.push("missing-ccli");
@@ -320,6 +329,7 @@ function processSongFolder(sheetsDir: string, folderName: string, globalNotes: s
     isPublicDomain,
     lyricsFile,
     verseOrder,
+    mediaLinks,
     sheets,
     tags: [],
     status: uniqueFlags.length > 0 ? "flagged" : "pending",

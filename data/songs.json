@@ -43,7 +43,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"10,000 Reasons (Bless the Lord O My Soul)\") differs from folder name (\"10,000 Reasons (Bless The Lord)\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "a-mighty-fortress-is-our-god",
@@ -74,7 +75,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "abide-with-me",
@@ -117,7 +119,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Abide With Me (Eventide)\") differs from folder name (\"Abide With Me\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "alive-in-us",
@@ -162,7 +165,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "all-creatures-of-our-god-and-king",
@@ -193,7 +197,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "all-for-jesus-all-for-jesus",
@@ -223,7 +228,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "all-hail-the-power-of-jesus-name",
@@ -267,7 +273,8 @@
       "extractionNotes": [
         "Skipped non-standard files: allHailThePowerOfJesusName-D.odt, allHailThePowerOfJesusName-E.odt"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "all-the-way-my-savior-leads-me",
@@ -303,7 +310,8 @@
       "extractionNotes": [
         "No PDF files found in folder"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "amazing-grace",
@@ -343,7 +351,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "amazing-grace-my-chains-are-gone",
@@ -385,7 +394,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "and-can-it-be-amazing-love",
@@ -418,7 +428,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "angels-we-have-heard-on-high",
@@ -502,7 +513,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "as-with-gladness-men-of-old",
@@ -548,7 +560,8 @@
       "extractionNotes": [
         "Could not parse key from filename: asWithGladnessMenOfOld.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "away-in-a-manger",
@@ -583,7 +596,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "away-in-a-manger-cradle-song",
@@ -618,7 +632,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "be-kind-to-one-another",
@@ -629,7 +644,7 @@
         "Scripture",
         "SmithLee Productions"
       ],
-      "copyright": "(verse)",
+      "copyright": null,
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1",
@@ -648,7 +663,7 @@
       "tags": [
         "kids"
       ],
-      "status": "verified",
+      "status": "pending",
       "flags": [
         "missing-ccli",
         "missing-authors"
@@ -657,7 +672,10 @@
         "No CCLI number found and not marked as public domain",
         "No authors found on line 3 of lyrics.txt"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=nMY2jOxX9gA"
+      ]
     },
     {
       "id": "be-thou-my-vision",
@@ -698,7 +716,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "beloved-let-us-love-one-another",
@@ -732,7 +751,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Beloved Let Us Love One Another (1 John 4:7-8)\") differs from folder name (\"Beloved Let Us Love One Another\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "better-is-one-day",
@@ -772,7 +792,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "blessed-assurance",
@@ -833,7 +854,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "blessed-be-your-name",
@@ -874,7 +896,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "born-to-bring-us-joy",
@@ -921,7 +944,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "breathe-on-me-breath-of-god",
@@ -952,7 +976,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "build-my-life",
@@ -996,7 +1021,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "build-your-kingdom-here",
@@ -1048,7 +1074,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "celebrate-jesus",
@@ -1081,7 +1108,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "celebrate-jesus-easier",
@@ -1116,7 +1144,10 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Celebrate Jesus\") differs from folder name (\"Celebrate Jesus (easier)\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=vv3g7hcWppo"
+      ]
     },
     {
       "id": "christ-arose",
@@ -1150,7 +1181,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Christ Arose!\") differs from folder name (\"Christ Arose\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "christ-is-all-in-all",
@@ -1196,7 +1228,10 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=0TYX7DeDKC0"
+      ]
     },
     {
       "id": "christ-our-hope-in-life-and-death",
@@ -1240,7 +1275,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "christ-the-lord-is-risen-today",
@@ -1273,7 +1309,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "christ-you-came-for-all",
@@ -1317,7 +1354,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "christ-whose-glory-fills-the-skies",
@@ -1354,7 +1392,8 @@
         "Found 1 backup file(s) (ignored)",
         "Could not parse key from filename: christWhoseGloryFillsTheSkies.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "christmas-offering",
@@ -1392,7 +1431,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "come-as-you-are",
@@ -1436,7 +1476,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "come-thou-almighty-king",
@@ -1466,7 +1507,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "come-thou-long-expected-jesus",
@@ -1515,7 +1557,8 @@
         "Title in lyrics.txt (\"Come Thou Long-Expected Jesus\") differs from folder name (\"Come Thou Long Expected Jesus\")",
         "Could not parse key from filename: come-thou-long-expected-jesus-simplified-chords.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "come-thou-long-expected-jesus-extra-ending",
@@ -1560,7 +1603,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Come Thou Long-Expected Jesus\") differs from folder name (\"Come Thou Long Expected Jesus (extra ending)\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "come-ye-sinners",
@@ -1590,7 +1634,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "come-thou-fount-of-every-blessing",
@@ -1625,7 +1670,8 @@
       "extractionNotes": [
         "Could not parse key from filename: comeThouFountOfEveryBlessing.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "cornerstone-our-hope-is-built",
@@ -1673,7 +1719,8 @@
       "extractionNotes": [
         "No lyrics.txt file found in folder"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "crown-him-with-many-crowns",
@@ -1746,7 +1793,8 @@
       "extractionNotes": [
         "Skipped non-standard files: crownHimWithManyCrowns_C.odt"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "do-it-again",
@@ -1793,7 +1841,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "enough",
@@ -1834,7 +1883,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "everlasting-god",
@@ -1878,7 +1928,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "every-praise",
@@ -1923,7 +1974,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "father-spirit-jesus",
@@ -1965,7 +2017,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "fishers-of-men",
@@ -1997,7 +2050,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "for-god-so-loved-the-world",
@@ -2029,7 +2083,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "for-your-gift-of-god-the-spirit",
@@ -2062,7 +2117,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "forever",
@@ -2102,7 +2158,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "forgive-one-another",
@@ -2138,7 +2195,10 @@
         "No CCLI number found and not marked as public domain",
         "No authors found on line 3 of lyrics.txt"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=HPPYg7mhEHc"
+      ]
     },
     {
       "id": "fruit-of-the-spirit",
@@ -2180,7 +2240,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "give-thanks",
@@ -2216,7 +2277,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "go-tell-it-on-the-mountain",
@@ -2260,7 +2322,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "god-of-grace-and-god-of-glory",
@@ -2316,7 +2379,8 @@
         "Could not parse key from filename: godOfGraceAndGodOfGlory-setAllFree.pdf",
         "Could not parse key from filename: godOfGraceAndGodOfGlory.pdf"
       ],
-      "notes": "3 versions - original, then \"set all free\" instead of \"set men free\", then \"grant us wisdom, men and women\" specially for Holly's sermon"
+      "notes": "3 versions - original, then \"set all free\" instead of \"set men free\", then \"grant us wisdom, men and women\" specially for Holly's sermon",
+      "mediaLinks": []
     },
     {
       "id": "god-really-loves-us",
@@ -2359,7 +2423,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "god-rest-ye-merry-gentlemen",
@@ -2404,7 +2469,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"God Rest Ye Merry, Gentlemen\") differs from folder name (\"God Rest Ye Merry Gentlemen\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "god-will-take-care-of-you",
@@ -2437,7 +2503,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "good-good-father",
@@ -2478,7 +2545,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "goodness-of-god",
@@ -2532,7 +2600,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "graves-into-gardens",
@@ -2585,7 +2654,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "great-are-you-lord",
@@ -2627,7 +2697,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "great-big-god",
@@ -2660,7 +2731,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "great-is-thy-faithfulness",
@@ -2705,7 +2777,8 @@
       "extractionNotes": [
         "Could not parse key from filename: great-is-thy-faithfulness.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "guide-me-o-thou-great-jehovah",
@@ -2737,7 +2810,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "hark-the-herald-angels-sing",
@@ -2786,7 +2860,8 @@
         "Could not parse key from filename: hark-the-herald-angels-sing-vocal.pdf",
         "Could not parse key from filename: hark-the-herald-angels-sing.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "hes-got-the-whole-world-in-his-hands",
@@ -2832,7 +2907,8 @@
       "extractionNotes": [
         "Could not parse key from filename: hesGotTheWholeWorldInHisHands-chords-CCD.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "hear-the-call-of-the-kingdom",
@@ -2874,7 +2950,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "here-i-am-to-worship",
@@ -2916,7 +2993,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "holy-god-we-praise-your-name",
@@ -2957,7 +3035,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "holy-god-we-praise-your-name-with-chorus",
@@ -2988,7 +3067,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "holy-is-the-lord",
@@ -3051,7 +3131,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "holy-holy-holy",
@@ -3087,7 +3168,8 @@
         "Title in lyrics.txt (\"Holy, Holy, Holy! Lord God Almighty\") differs from folder name (\"Holy Holy Holy\")",
         "Could not parse key from filename: holy-holy-holy.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "hosanna-i-see-the-king-of-glory",
@@ -3139,7 +3221,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "hosanna-praise-is-rising",
@@ -3182,7 +3265,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "how-deep-the-fathers-love-for-us",
@@ -3224,7 +3308,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "how-firm-a-foundation",
@@ -3258,7 +3343,8 @@
         "Skipped non-standard files: how-firm-a-foundation-lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "how-great-is-our-god",
@@ -3300,7 +3386,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "how-long-o-lord-how-long",
@@ -3357,7 +3444,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"How Long O Lord How Long (Psalm 13)\") differs from folder name (\"How Long, O Lord, How Long?\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-am-thankful",
@@ -3428,7 +3516,8 @@
         "Could not parse key from filename: I Am Thankful - simplified.pdf",
         "Could not parse key from filename: I Am Thankful - studio (advanced).pdf"
       ],
-      "notes": ""
+      "notes": "Rahel chose this for the children's thanksgiving song 2023\nI purchased this from https://www.angiekillian.com/i-am-thankful - the \"studio\" version ($4), then the $10 bundle plus\nI think it's only authorized for 4 copies?\n",
+      "mediaLinks": []
     },
     {
       "id": "i-cannot-tell",
@@ -3481,7 +3570,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-have-a-friend-in-jesus",
@@ -3519,7 +3609,10 @@
         "No authors found on line 3 of lyrics.txt",
         "Could not parse key from filename: IHaveAFriendInJesus.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=65Yk8-yJxEg"
+      ]
     },
     {
       "id": "i-have-decided-to-follow-jesus",
@@ -3556,7 +3649,8 @@
       "extractionNotes": [
         "Could not parse key from filename: IHaveDecidedToFollowJesus.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-speak-jesus",
@@ -3611,7 +3705,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-stand-amazed",
@@ -3651,7 +3746,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-surrender-all",
@@ -3704,7 +3800,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-will-follow",
@@ -3756,7 +3853,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-will-sing-of-my-redeemer",
@@ -3793,7 +3891,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "i-will-sing-of-the-mercies",
@@ -3848,7 +3947,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "in-christ-alone",
@@ -3892,7 +3992,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "in-the-garden",
@@ -3952,7 +4053,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "infant-holy-infant-lowly",
@@ -3991,7 +4093,8 @@
       "extractionNotes": [
         "Could not parse key from filename: infant-holy-infant-lowly.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "is-he-worthy",
@@ -4044,7 +4147,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Is He Worthy?\") differs from folder name (\"Is He Worthy\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "isaiah-9-6-7",
@@ -4078,7 +4182,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "it-came-upon-the-midnight-clear",
@@ -4116,7 +4221,8 @@
       "extractionNotes": [
         "Could not parse key from filename: itCameUponTheMidnightClear.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "it-is-well-with-my-soul",
@@ -4157,7 +4263,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "jesus-paid-it-all",
@@ -4204,7 +4311,8 @@
         "Could not parse key from filename: jesusPaidItAll-choral.pdf",
         "Could not parse key from filename: jesusPaidItAll.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "joy-to-the-world",
@@ -4271,7 +4379,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "joy-to-the-world-unspeakable-joy",
@@ -4312,7 +4421,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "king-of-kings",
@@ -4357,7 +4467,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "leaning-on-the-everlasting-arms",
@@ -4388,7 +4499,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "let-your-heart-be-broken",
@@ -4423,7 +4535,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "light-after-darkness",
@@ -4459,7 +4572,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "lo-how-a-rose-eer-blooming",
@@ -4493,7 +4607,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "lord-i-lift-your-name-on-high",
@@ -4525,7 +4640,10 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=1XbscBPPt2I"
+      ]
     },
     {
       "id": "lord-i-need-you",
@@ -4609,7 +4727,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "love-divine-all-loves-excelling",
@@ -4639,7 +4758,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "love-lifted-me",
@@ -4676,7 +4796,8 @@
         "No CCLI number found and not marked as public domain",
         "Could not parse key from filename: loveLiftedMe.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "love-lifted-me-rowe",
@@ -4719,7 +4840,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Love Lifted Me\") differs from folder name (\"Love Lifted Me (Rowe)\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "majesty-of-heaven",
@@ -4751,7 +4873,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "mary-did-you-know",
@@ -4794,7 +4917,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "mighty-to-save",
@@ -4825,7 +4949,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "more-love-to-thee-o-christ",
@@ -4860,7 +4985,8 @@
         "Title in lyrics.txt (\"More Love, O Christ, To Thee\") differs from folder name (\"More Love to Thee, O Christ\")",
         "Could not parse key from filename: moreLoveToTheeOChrist-chords.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "moving-forward",
@@ -4905,7 +5031,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "my-god-is-so-big",
@@ -4940,7 +5067,8 @@
         "Skipped non-standard files: lyrics.txt~, myGodIsSoBig_F_chords.txt~",
         "Found 2 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "my-heart-is-filled",
@@ -4981,7 +5109,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "my-jesus-i-love-thee",
@@ -5012,7 +5141,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "my-redeemer-lives",
@@ -5044,7 +5174,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "new-song",
@@ -5078,7 +5209,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "no-not-one",
@@ -5111,7 +5243,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "no-sacrifice",
@@ -5145,7 +5278,8 @@
       "extractionNotes": [
         "Could not parse key from filename: noSacrifice.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "noel",
@@ -5200,7 +5334,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "nothing-but-the-blood-of-jesus",
@@ -5244,7 +5379,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Nothing But The Blood (Plainfield)\") differs from folder name (\"Nothing But The Blood of Jesus\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "nothing-without-you",
@@ -5285,7 +5421,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": "This version seems to be missing the bridge"
+      "notes": "This version seems to be missing the bridge",
+      "mediaLinks": []
     },
     {
       "id": "now-unto-the-king-eternal",
@@ -5320,7 +5457,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "o-church-arise",
@@ -5351,7 +5489,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "o-come-all-ye-faithful",
@@ -5400,7 +5539,8 @@
         "Could not parse key from filename: o-come-all-ye-faithful-vocal.pdf",
         "Could not parse key from filename: o-come-all-ye-faithful.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "o-come-o-come-emmanuel",
@@ -5464,7 +5604,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "o-for-a-thousand-tongues-to-sing",
@@ -5495,7 +5636,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "o-how-i-love-jesus",
@@ -5532,7 +5674,8 @@
         "Skipped non-standard files: o-how-i-love-jesus-lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "o-how-i-love-jesus-there-is-a-name-i-love-to-hear",
@@ -5567,7 +5710,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"O How I Love Jesus (There Is A Name) (hymn 509)\") differs from folder name (\"O How I Love Jesus (There Is A Name I Love To Hear)\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "o-little-town-of-bethlehem",
@@ -5631,7 +5775,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "one-race-one-gospel-one-task",
@@ -5666,7 +5811,8 @@
         "No CCLI number found and not marked as public domain",
         "Title in lyrics.txt (\"One Race, One Gospel, One Task (hymn 735)\") differs from folder name (\"One Race, One Gospel, One Task\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "only-king-forever",
@@ -5709,7 +5855,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "open-the-eyes-of-my-heart",
@@ -5749,7 +5896,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "our-god",
@@ -5792,7 +5940,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "our-god-saves",
@@ -5853,7 +6002,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "pass-it-on",
@@ -5885,7 +6035,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "praise-the-father-praise-the-son",
@@ -5940,7 +6091,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "praise-to-the-lord-the-almighty",
@@ -5981,7 +6133,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "reckless-love",
@@ -6023,7 +6176,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": "Pastor Dan has asked us not to play this one"
+      "notes": "Pastor Dan has asked us not to play this one, 2022",
+      "mediaLinks": []
     },
     {
       "id": "reign-in-us",
@@ -6075,7 +6229,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "revelation-song",
@@ -6115,7 +6270,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "revelations-19-1",
@@ -6165,7 +6321,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "romans5-8",
@@ -6202,7 +6359,8 @@
         "Title in lyrics.txt (\"Romans 5:8\") differs from folder name (\"Romans5_8\")",
         "Could not parse key from filename: Romans5_8.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "run-to-the-father",
@@ -6254,7 +6412,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "see-him-lying-on-a-bed-of-straw-calypso-carol",
@@ -6298,7 +6457,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "seek-ye-first",
@@ -6330,7 +6490,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "shout-hosanna",
@@ -6363,7 +6524,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "shout-to-the-lord",
@@ -6403,7 +6565,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "silent-night",
@@ -6459,7 +6622,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "silver-and-gold-have-i-none",
@@ -6491,7 +6655,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "sing-praise-to-the-father",
@@ -6525,7 +6690,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "sing-to-the-king",
@@ -6580,7 +6746,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "so-will-i",
@@ -6627,7 +6794,8 @@
         "No CCLI number found and not marked as public domain",
         "Title in lyrics.txt (\"So Will I (100 Billion X)\") differs from folder name (\"So Will I\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "softly-and-tenderly-jesus-is-calling",
@@ -6659,7 +6827,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Softly and Tenderly Jesus Is Calling (hymn 441)\") differs from folder name (\"Softly And Tenderly Jesus Is Calling\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "speak-o-lord",
@@ -6690,7 +6859,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "spirit-of-god",
@@ -6725,7 +6895,10 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=iOHbZxjOmG0"
+      ]
     },
     {
       "id": "standing-on-the-promises",
@@ -6780,7 +6953,8 @@
         "Skipped non-standard files: lyrics-kids.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "surrender",
@@ -6830,7 +7004,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "take-my-life",
@@ -6873,7 +7048,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "take-my-life-and-let-it-be",
@@ -6904,7 +7080,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "take-time-to-be-holy",
@@ -6945,7 +7122,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "taste-of-eternity",
@@ -6980,7 +7158,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "tell-me-the-story-of-jesus",
@@ -7024,7 +7203,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "thankful",
@@ -7056,7 +7236,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-blessing",
@@ -7099,7 +7280,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-blood-will-never-lose-its-power",
@@ -7159,7 +7341,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-church",
@@ -7237,7 +7420,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-first-noel",
@@ -7270,7 +7454,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-heart-of-worship",
@@ -7313,7 +7498,8 @@
         "Skipped non-standard files: lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-joy-of-the-lord-is-my-strength-vale",
@@ -7345,7 +7531,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-kingdom-of-god-is-justice-and-joy",
@@ -7385,7 +7572,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-lords-prayer-childrens-edition",
@@ -7419,7 +7607,10 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "From this YouTube video that Rahel recommended: https://youtu.be/e6STLRycSnE?feature=shared\n",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=e6STLRycSnE"
+      ]
     },
     {
       "id": "the-potters-hand",
@@ -7469,7 +7660,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-power-of-the-cross",
@@ -7532,7 +7724,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-solid-rock",
@@ -7567,7 +7760,8 @@
       "extractionNotes": [
         "Could not parse key from filename: theSolidRock.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-wise-man-built-his-house",
@@ -7600,7 +7794,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "the-wonderful-cross",
@@ -7660,7 +7855,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "there-is-a-redeemer",
@@ -7702,7 +7898,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "there-is-power-in-the-blood",
@@ -7744,7 +7941,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "this-i-believe-the-creed",
@@ -7785,7 +7983,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "this-is-amazing-grace",
@@ -7839,7 +8038,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "this-is-my-fathers-world",
@@ -7870,7 +8070,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "this-is-the-day",
@@ -7902,7 +8103,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "this-little-light-of-mine",
@@ -7934,7 +8136,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "through-it-all",
@@ -7964,7 +8167,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "thy-mercy-my-god",
@@ -7997,7 +8201,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Thy Mercy My God\") differs from folder name (\"Thy Mercy, My God\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "tiny-little-me",
@@ -8034,7 +8239,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "tis-so-sweet-to-trust-in-jesus",
@@ -8093,7 +8299,8 @@
         "Skipped non-standard files: tis-so-sweet-to-trust-in-jesus-lyrics.txt~",
         "Found 1 backup file(s) (ignored)"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "to-god-be-the-glory",
@@ -8129,7 +8336,8 @@
         "Title in lyrics.txt (\"To God Be the Glory (Hymn 72)\") differs from folder name (\"To God Be The Glory\")",
         "Could not parse key from filename: toGodBeTheGlory.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "trading-my-sorrows",
@@ -8163,7 +8371,8 @@
       "extractionNotes": [
         "No lyrics.txt file found in folder"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "trust-and-obey",
@@ -8220,7 +8429,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "trust-in-the-lord",
@@ -8256,7 +8466,10 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": [
+        "https://www.youtube.com/watch?v=_Q3duBZOdCY"
+      ]
     },
     {
       "id": "trusting-jesus",
@@ -8293,7 +8506,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "turn-your-eyes-upon-jesus",
@@ -8323,7 +8537,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "victory-in-jesus",
@@ -8357,7 +8572,8 @@
       "extractionNotes": [
         "Could not parse key from filename: victoryInJesus.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "way-maker",
@@ -8407,7 +8623,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "we-are-called-to-be-gods-people",
@@ -8442,7 +8659,8 @@
         "No CCLI number found and not marked as public domain",
         "Title in lyrics.txt (\"We Are Called to Be God's People (hymn 710)\") differs from folder name (\"We Are Called To Be God's People\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "we-are-listening",
@@ -8482,7 +8700,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "we-three-kings-of-orient-are",
@@ -8545,7 +8764,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "weve-a-story-to-tell-to-the-nations",
@@ -8577,7 +8797,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "what-a-beautiful-name",
@@ -8620,7 +8841,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "what-a-friend-we-have-in-jesus",
@@ -8651,7 +8873,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "what-child-is-this",
@@ -8687,7 +8910,8 @@
         "Title in lyrics.txt (\"What Child Is This (Greensleeves)\") differs from folder name (\"What Child Is This\")",
         "Skipped non-standard files: whatChildIsThis-leadSheet-Dm.xml"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "what-wondrous-love-is-this",
@@ -8746,7 +8970,8 @@
         "Skipped non-standard files: whatWondrousLoveIsThis-chords-Cm.odt",
         "Could not parse key from filename: whatWondrousLoveIsThis-choral.pdf"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "when-god-the-spirit-came",
@@ -8782,7 +9007,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "whisper-a-prayer",
@@ -8814,7 +9040,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "who-you-say-i-am",
@@ -8855,7 +9082,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "whom-shall-i-fear",
@@ -8899,7 +9127,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"Whom Shall I Fear (God of Angel Armies)\") differs from folder name (\"Whom Shall I Fear\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "yet-not-i-but-through-christ-in-me",
@@ -8955,7 +9184,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "you-are-my-king",
@@ -8997,7 +9227,8 @@
       "extractionNotes": [
         "Title in lyrics.txt (\"You Are My King (Amazing Love)\") differs from folder name (\"You Are My King\")"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "you-dont-love-god-if-you-dont-love-your-neighbor",
@@ -9033,7 +9264,8 @@
       "extractionNotes": [
         "No CCLI number found and not marked as public domain"
       ],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "your-grace-is-enough",
@@ -9073,7 +9305,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     },
     {
       "id": "your-name",
@@ -9104,7 +9337,8 @@
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
-      "notes": ""
+      "notes": "",
+      "mediaLinks": []
     }
   ],
   "extractionNotes": [

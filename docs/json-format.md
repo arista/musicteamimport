@@ -81,6 +81,7 @@ WORSHIP_SETS_ROOT=/claude-repos/cbcWorshipSets
 | `tags` | string[] | no | user-assigned | For categorization |
 | `lyricsFile` | string | yes | filesystem | Filename, relative to folderName |
 | `verseOrder` | string | no | parsed | e.g., "V1 C V2 C B" |
+| `mediaLinks` | string[] | no | parsed | URLs found in lyrics file |
 | `status` | string | yes | workflow | See status values |
 | `flags` | string[] | no | extraction | Issues found |
 | `extractionNotes` | string[] | no | extraction | Detailed notes from extraction |

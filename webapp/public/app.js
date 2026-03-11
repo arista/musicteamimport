@@ -199,6 +199,16 @@ function renderDetailPanel() {
         <label>Notes:</label>
         <textarea id="edit-notes" onchange="updateField('notes', this.value)">${escapeHtml(song.notes)}</textarea>
       </div>
+      ${song.mediaLinks && song.mediaLinks.length > 0 ? `
+        <div class="field-row">
+          <label>Media Links:</label>
+          <div class="media-links">
+            ${song.mediaLinks.map(link => `
+              <a href="${escapeHtml(link)}" target="_blank" class="media-link">${escapeHtml(link)}</a>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
     </div>
 
     <div class="detail-section">

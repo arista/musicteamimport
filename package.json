@@ -5,6 +5,7 @@
   "scripts": {
     "extract": "npx tsx scripts/extract.ts",
     "apply-tags": "npx tsx scripts/apply-tags.ts",
+    "add-media-links": "npx tsx scripts/add-media-links.ts",
     "verify": "npx tsx webapp/server.ts"
   },
   "dependencies": {
