@@ -123,11 +123,12 @@
       "id": "alive-in-us",
       "folderName": "Alive In Us",
       "title": "Alive In Us",
-      "ccliNumber": null,
+      "ccliNumber": 5894206,
       "authors": [
-        "(verse 1)"
+        "Jason Ingram",
+        "Reuben Morgan"
       ],
-      "copyright": "Great is Your love",
+      "copyright": "© 2010 Spirit Nashville Three; So Essential Tunes; Spirit Nashville Three; Hillsong Music Publishing Australia",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C B B C",
@@ -153,10 +154,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "epiphany"
-      ],
-      "status": "flagged",
+      "tags": [],
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -284,9 +283,20 @@
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C C E",
-      "sheets": [],
+      "sheets": [
+        {
+          "filePath": "allTheWayMySaviorLeadsMe-chords-E-orig.pdf",
+          "fileName": "allTheWayMySaviorLeadsMe-chords-E-orig.pdf",
+          "key": "E",
+          "type": "Chord",
+          "typeOther": "",
+          "includesVerseOrder": false,
+          "fileSize": 88840,
+          "isPrimary": true
+        }
+      ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "no-sheets"
       ],
@@ -520,7 +530,7 @@
         {
           "filePath": "asWithGladnessMenOfOld.pdf",
           "fileName": "asWithGladnessMenOfOld.pdf",
-          "key": "unknown",
+          "key": "F",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -531,7 +541,7 @@
       "tags": [
         "christmas"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -614,8 +624,11 @@
       "id": "be-kind-to-one-another",
       "folderName": "Be Kind To One Another",
       "title": "Be Kind To One Another",
-      "ccliNumber": null,
-      "authors": [],
+      "ccliNumber": 7200269,
+      "authors": [
+        "Scripture",
+        "SmithLee Productions"
+      ],
       "copyright": "(verse)",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
@@ -635,7 +648,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli",
         "missing-authors"
@@ -869,9 +882,9 @@
       "title": "Born to Bring Us Joy",
       "ccliNumber": null,
       "authors": [
-        "© 2023 – all rights reserved"
+        "Angie Killian"
       ],
-      "copyright": "",
+      "copyright": "© 2023 – all rights reserved",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C B C C E",
@@ -901,7 +914,7 @@
         "christmas",
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -1143,11 +1156,13 @@
       "id": "christ-is-all-in-all",
       "folderName": "Christ Is All In All",
       "title": "Christ Is All In All",
-      "ccliNumber": null,
+      "ccliNumber": 7197029,
       "authors": [
-        "© 2021 Getty Music Hymns and Songs; Getty Music Publishing; Junkbox Music; Integrity Worship Music; Let Them Hear"
+        "Ben Shive",
+        "Dwan Hill",
+        "Kristyn Getty"
       ],
-      "copyright": "https://www.youtube.com/watch?v=0TYX7DeDKC0",
+      "copyright": "© 2021 Getty Music Hymns and Songs; Getty Music Publishing; Junkbox Music; Integrity Worship Music; Let Them Hear",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 V2 C V3 C B C",
@@ -1174,7 +1189,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -1320,7 +1335,7 @@
         {
           "filePath": "christWhoseGloryFillsTheSkies.pdf",
           "fileName": "christWhoseGloryFillsTheSkies.pdf",
-          "key": "unknown",
+          "key": "F",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -1329,7 +1344,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -1345,11 +1360,11 @@
       "id": "christmas-offering",
       "folderName": "Christmas Offering",
       "title": "Christmas Offering",
-      "ccliNumber": null,
+      "ccliNumber": 7005509,
       "authors": [
-        "(verse 1)"
+        "Paul Baloche"
       ],
-      "copyright": "Over the skies of Bethlehem appeared a star",
+      "copyright": "© 2003 Integrity's Hosanna! Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C E",
@@ -1366,9 +1381,11 @@
         }
       ],
       "tags": [
+        "advent",
+        "christmas",
         "epiphany"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -1468,7 +1485,7 @@
         {
           "filePath": "come-thou-long-expected-jesus-simplified-chords.pdf",
           "fileName": "come-thou-long-expected-jesus-simplified-chords.pdf",
-          "key": "unknown",
+          "key": "D",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -1490,7 +1507,7 @@
         "advent",
         "christmas"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -1592,7 +1609,7 @@
         {
           "filePath": "comeThouFountOfEveryBlessing.pdf",
           "fileName": "comeThouFountOfEveryBlessing.pdf",
-          "key": "unknown",
+          "key": "C",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -1601,7 +1618,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -1614,12 +1631,18 @@
       "id": "cornerstone-our-hope-is-built",
       "folderName": "Cornerstone - Our Hope Is Built",
       "title": "Cornerstone - Our Hope Is Built",
-      "ccliNumber": null,
-      "authors": [],
-      "copyright": "",
+      "ccliNumber": 6158927,
+      "authors": [
+        "Edward Mote",
+        "Eric Liljero",
+        "Jonas Myrin",
+        "Reuben Morgan",
+        "William Batchelder Bradbury"
+      ],
+      "copyright": "© 2011 Hillsong MP Songs; Hillsong Music Publishing Australia; Hillsong Music Publishing UK",
       "isPublicDomain": false,
-      "lyricsFile": null,
-      "verseOrder": "",
+      "lyricsFile": "lyrics-pluralized.txt",
+      "verseOrder": "V1 C1 V2 C2 V3 C3",
       "sheets": [
         {
           "filePath": "cornerstone-D-orig.pdf",
@@ -1643,7 +1666,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-lyrics"
       ],
@@ -1729,11 +1752,14 @@
       "id": "do-it-again",
       "folderName": "Do It Again",
       "title": "Do It Again",
-      "ccliNumber": null,
+      "ccliNumber": 7067555,
       "authors": [
-        "(verse 1)"
+        "Chris Brown",
+        "Mack Brock",
+        "Matt Redman",
+        "Steven Furtick"
       ],
-      "copyright": "Walking around these walls",
+      "copyright": "© Said And Done Music; sixsteps Music; Thankyou Music Ltd; worshiptogether.com songs; Music by Elevation Worship Publishing",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "V1 C V2 C B C E",
@@ -1760,7 +1786,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -1858,11 +1884,12 @@
       "id": "every-praise",
       "folderName": "Every Praise",
       "title": "Every Praise",
-      "ccliNumber": null,
+      "ccliNumber": 6623483,
       "authors": [
-        "(chorus)"
+        "Hezekiah Walker",
+        "John David Bratton"
       ],
-      "copyright": "Every praise is to our God",
+      "copyright": "© 2013 Li'l Eva Music; Luv Ki Publishing; Davo Pavo Music",
       "isPublicDomain": false,
       "lyricsFile": "lyrics.txt",
       "verseOrder": "C C C B B E",
@@ -1889,7 +1916,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],
@@ -2245,33 +2272,33 @@
       ],
       "copyright": "Words: Public Domain",
       "isPublicDomain": true,
-      "lyricsFile": "lyrics.txt",
+      "lyricsFile": "lyrics-setAllFree.txt",
       "verseOrder": "V1 V2 V3 V4 V5",
       "sheets": [
         {
           "filePath": "godOfGraceAndGodOfGlory-menAndWomen.pdf",
           "fileName": "godOfGraceAndGodOfGlory-menAndWomen.pdf",
-          "key": "unknown",
+          "key": "E",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 67624,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "godOfGraceAndGodOfGlory-setAllFree.pdf",
           "fileName": "godOfGraceAndGodOfGlory-setAllFree.pdf",
-          "key": "unknown",
+          "key": "E",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 67630,
-          "isPrimary": false
+          "isPrimary": true
         },
         {
           "filePath": "godOfGraceAndGodOfGlory.pdf",
           "fileName": "godOfGraceAndGodOfGlory.pdf",
-          "key": "unknown",
+          "key": "E",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -2279,10 +2306,8 @@
           "isPrimary": false
         }
       ],
-      "tags": [
-        "advent"
-      ],
-      "status": "flagged",
+      "tags": [],
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -2291,7 +2316,7 @@
         "Could not parse key from filename: godOfGraceAndGodOfGlory-setAllFree.pdf",
         "Could not parse key from filename: godOfGraceAndGodOfGlory.pdf"
       ],
-      "notes": ""
+      "notes": "3 versions - original, then \"set all free\" instead of \"set men free\", then \"grant us wisdom, men and women\" specially for Holly's sermon"
     },
     {
       "id": "god-really-loves-us",
@@ -2659,21 +2684,21 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 80763,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "great-is-thy-faithfulness.pdf",
           "fileName": "great-is-thy-faithfulness.pdf",
-          "key": "unknown",
+          "key": "A",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 80791,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -2731,7 +2756,7 @@
         {
           "filePath": "hark-the-herald-angels-sing-vocal.pdf",
           "fileName": "hark-the-herald-angels-sing-vocal.pdf",
-          "key": "unknown",
+          "key": "D",
           "type": "Vocal",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -2741,7 +2766,7 @@
         {
           "filePath": "hark-the-herald-angels-sing.pdf",
           "fileName": "hark-the-herald-angels-sing.pdf",
-          "key": "unknown",
+          "key": "D",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -2753,7 +2778,7 @@
         "advent",
         "christmas"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -2784,23 +2809,23 @@
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 64325,
-          "isPrimary": true
+          "isPrimary": false
         },
         {
           "filePath": "hesGotTheWholeWorldInHisHands-chords-CCD.pdf",
           "fileName": "hesGotTheWholeWorldInHisHands-chords-CCD.pdf",
-          "key": "unknown",
+          "key": "C",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
           "fileSize": 63517,
-          "isPrimary": false
+          "isPrimary": true
         }
       ],
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -2885,7 +2910,9 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
+      "tags": [
+        "good-friday"
+      ],
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
@@ -3043,7 +3070,7 @@
         {
           "filePath": "holy-holy-holy.pdf",
           "fileName": "holy-holy-holy.pdf",
-          "key": "unknown",
+          "key": "C",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -3051,11 +3078,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "advent",
-        "epiphany"
-      ],
-      "status": "flagged",
+      "tags": [],
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -3510,7 +3534,7 @@
         {
           "filePath": "IHaveDecidedToFollowJesus.pdf",
           "fileName": "IHaveDecidedToFollowJesus.pdf",
-          "key": "unknown",
+          "key": "A",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -3518,8 +3542,10 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "flagged",
+      "tags": [
+        "kids"
+      ],
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -3938,7 +3964,7 @@
         {
           "filePath": "infant-holy-infant-lowly.pdf",
           "fileName": "infant-holy-infant-lowly.pdf",
-          "key": "unknown",
+          "key": "E",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -3948,9 +3974,10 @@
       ],
       "tags": [
         "advent",
+        "christmas",
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -4063,7 +4090,7 @@
         {
           "filePath": "itCameUponTheMidnightClear.pdf",
           "fileName": "itCameUponTheMidnightClear.pdf",
-          "key": "unknown",
+          "key": "G",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -4071,8 +4098,11 @@
           "isPrimary": true
         }
       ],
-      "tags": [],
-      "status": "flagged",
+      "tags": [
+        "advent",
+        "christmas"
+      ],
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -4138,7 +4168,7 @@
         {
           "filePath": "jesusPaidItAll-choral.pdf",
           "fileName": "jesusPaidItAll-choral.pdf",
-          "key": "unknown",
+          "key": "B",
           "type": "Vocal",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -4148,7 +4178,7 @@
         {
           "filePath": "jesusPaidItAll.pdf",
           "fileName": "jesusPaidItAll.pdf",
-          "key": "unknown",
+          "key": "B",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -4157,10 +4187,9 @@
         }
       ],
       "tags": [
-        "good-friday",
-        "kids"
+        "good-friday"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -4802,7 +4831,7 @@
         {
           "filePath": "moreLoveToTheeOChrist-chords.pdf",
           "fileName": "moreLoveToTheeOChrist-chords.pdf",
-          "key": "unknown",
+          "key": "D",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -4811,7 +4840,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -5087,7 +5116,7 @@
         {
           "filePath": "noSacrifice.pdf",
           "fileName": "noSacrifice.pdf",
-          "key": "unknown",
+          "key": "D",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -5096,7 +5125,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -5338,7 +5367,7 @@
         {
           "filePath": "o-come-all-ye-faithful.pdf",
           "fileName": "o-come-all-ye-faithful.pdf",
-          "key": "unknown",
+          "key": "G",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -5350,7 +5379,7 @@
         "advent",
         "christmas"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -7514,7 +7543,7 @@
         {
           "filePath": "theSolidRock.pdf",
           "fileName": "theSolidRock.pdf",
-          "key": "unknown",
+          "key": "E",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -7523,7 +7552,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -8065,7 +8094,7 @@
         {
           "filePath": "toGodBeTheGlory.pdf",
           "fileName": "toGodBeTheGlory.pdf",
-          "key": "unknown",
+          "key": "E",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -8073,10 +8102,8 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-        "easter"
-      ],
-      "status": "flagged",
+      "tags": [],
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -8292,7 +8319,7 @@
         {
           "filePath": "victoryInJesus.pdf",
           "fileName": "victoryInJesus.pdf",
-          "key": "unknown",
+          "key": "G",
           "type": "Chord",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -8301,7 +8328,7 @@
         }
       ],
       "tags": [],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -8667,7 +8694,7 @@
         {
           "filePath": "whatWondrousLoveIsThis-choral.pdf",
           "fileName": "whatWondrousLoveIsThis-choral.pdf",
-          "key": "unknown",
+          "key": "Dm",
           "type": "Vocal",
           "typeOther": "",
           "includesVerseOrder": true,
@@ -8688,7 +8715,7 @@
       "tags": [
         "good-friday"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "key-unknown"
       ],
@@ -8973,7 +9000,7 @@
       "tags": [
         "kids"
       ],
-      "status": "flagged",
+      "status": "verified",
       "flags": [
         "missing-ccli"
       ],

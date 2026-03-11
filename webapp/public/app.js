@@ -289,7 +289,7 @@ async function previewLyrics() {
     btn.classList.toggle('active', i === 0);
   });
 
-  const res = await fetch(`/api/lyrics/${encodeURIComponent(selectedSong.folderName)}`);
+  const res = await fetch(`/api/lyrics/${encodeURIComponent(selectedSong.folderName)}/${encodeURIComponent(selectedSong.lyricsFile)}`);
   const content = await res.text();
   document.getElementById("preview-content").innerHTML = `<pre>${escapeHtml(content)}</pre>`;
 }

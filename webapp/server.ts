@@ -70,9 +70,9 @@ app.post("/api/songs/bulk-status", (req, res) => {
 });
 
 // API: Get lyrics file content
-app.get("/api/lyrics/:folderName", (req, res) => {
-  const { folderName } = req.params;
-  const lyricsPath = join(worshipSetsRoot, "sheets", folderName, "lyrics.txt");
+app.get("/api/lyrics/:folderName/:filename", (req, res) => {
+  const { folderName, filename } = req.params;
+  const lyricsPath = join(worshipSetsRoot, "sheets", folderName, filename);
 
   if (!existsSync(lyricsPath)) {
     return res.status(404).json({ error: "Lyrics file not found" });
