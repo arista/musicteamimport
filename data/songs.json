@@ -674,7 +674,9 @@
       ],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=nMY2jOxX9gA"
+        {
+          "url": "https://www.youtube.com/watch?v=nMY2jOxX9gA"
+        }
       ]
     },
     {
@@ -1146,7 +1148,9 @@
       ],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=vv3g7hcWppo"
+        {
+          "url": "https://www.youtube.com/watch?v=vv3g7hcWppo"
+        }
       ]
     },
     {
@@ -1230,7 +1234,9 @@
       ],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=0TYX7DeDKC0"
+        {
+          "url": "https://www.youtube.com/watch?v=0TYX7DeDKC0"
+        }
       ]
     },
     {
@@ -1470,8 +1476,7 @@
           "isPrimary": true
         }
       ],
-      "tags": [
-      ],
+      "tags": [],
       "status": "verified",
       "flags": [],
       "extractionNotes": [],
@@ -2196,7 +2201,9 @@
       ],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=HPPYg7mhEHc"
+        {
+          "url": "https://www.youtube.com/watch?v=HPPYg7mhEHc"
+        }
       ]
     },
     {
@@ -3610,7 +3617,9 @@
       ],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=65Yk8-yJxEg"
+        {
+          "url": "https://www.youtube.com/watch?v=65Yk8-yJxEg"
+        }
       ]
     },
     {
@@ -4641,7 +4650,9 @@
       "extractionNotes": [],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=1XbscBPPt2I"
+        {
+          "url": "https://www.youtube.com/watch?v=1XbscBPPt2I"
+        }
       ]
     },
     {
@@ -6572,8 +6583,7 @@
       "folderName": "Silent Night",
       "title": "Silent Night, Holy Night",
       "ccliNumber": 27862,
-      "authors": [
-      ],
+      "authors": [],
       "copyright": "Words: Public Domain",
       "isPublicDomain": true,
       "lyricsFile": "lyrics.txt",
@@ -6895,7 +6905,9 @@
       ],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=iOHbZxjOmG0"
+        {
+          "url": "https://www.youtube.com/watch?v=iOHbZxjOmG0"
+        }
       ]
     },
     {
@@ -7607,7 +7619,9 @@
       ],
       "notes": "From this YouTube video that Rahel recommended: https://youtu.be/e6STLRycSnE?feature=shared\n",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=e6STLRycSnE"
+        {
+          "url": "https://www.youtube.com/watch?v=e6STLRycSnE"
+        }
       ]
     },
     {
@@ -8466,7 +8480,9 @@
       ],
       "notes": "",
       "mediaLinks": [
-        "https://www.youtube.com/watch?v=_Q3duBZOdCY"
+        {
+          "url": "https://www.youtube.com/watch?v=_Q3duBZOdCY"
+        }
       ]
     },
     {

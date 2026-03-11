@@ -30,10 +30,11 @@ for (const song of data.songs) {
   try {
     const content = readFileSync(lyricsPath, "utf-8");
     const matches = content.match(urlPattern) || [];
-    song.mediaLinks = [...new Set(matches)]; // dedupe
+    const uniqueUrls = [...new Set(matches)]; // dedupe
+    song.mediaLinks = uniqueUrls.map(url => ({ url }));
 
     if (song.mediaLinks.length > 0) {
-      console.log(`${song.title}: ${song.mediaLinks.join(", ")}`);
+      console.log(`${song.title}: ${uniqueUrls.join(", ")}`);
       addedCount++;
     }
   } catch (e) {

@@ -4,6 +4,6 @@ Project roadmap, immediate plans, todo's
 
 ## Current Focus
 
-Let's start on [reconciliation](./docs/reconciliation.md).  Now perform the "Local reconciliation analysis" step.
+We're now ready to start on the importing!  Look at [reconciliation](./docs/reconciliation.md), the section on "Importing".  Look it over, see if it makes sense, see if I missed anything.
 
 

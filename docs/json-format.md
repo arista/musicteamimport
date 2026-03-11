@@ -81,11 +81,13 @@ WORSHIP_SETS_ROOT=/claude-repos/cbcWorshipSets
 | `tags` | string[] | no | user-assigned | For categorization |
 | `lyricsFile` | string | yes | filesystem | Filename, relative to folderName |
 | `verseOrder` | string | no | parsed | e.g., "V1 C V2 C B" |
-| `mediaLinks` | string[] | no | parsed | URLs found in lyrics file |
+| `mediaLinks` | object[] | no | parsed | URLs found in lyrics file; each object has `url` (and later `musicteam.song_media_id`) |
 | `status` | string | yes | workflow | See status values |
 | `flags` | string[] | no | extraction | Issues found |
 | `extractionNotes` | string[] | no | extraction | Detailed notes from extraction |
 | `notes` | string | no | user | Manual notes |
+| `musicteam.song_id` | string | no | import | MusicTeam Song ID after import |
+| `musicteam.song_version_id` | string | no | import | MusicTeam SongVersion ID after import |
 
 ### Sheet Level
 
@@ -98,7 +100,15 @@ WORSHIP_SETS_ROOT=/claude-repos/cbcWorshipSets
 | `typeOther` | string | no | user | Custom type if type is "Other" |
 | `includesVerseOrder` | boolean | yes | parsed | False for "-orig" files |
 | `fileSize` | number | yes | filesystem | Bytes |
-| `isPrimary` | boolean | yes | algorithm | Preferred version |
+| `isPrimary` | boolean | yes | algorithm | Preferred version (local use only; no MusicTeam equivalent) |
+| `musicteam.song_sheet_id` | string | no | import | MusicTeam ID after import |
+
+### Media Link Level
+
+| Field | Type | Required | Source | Notes |
+|-------|------|----------|--------|-------|
+| `url` | string | yes | parsed | URL found in lyrics file |
+| `musicteam.song_media_id` | string | no | import | MusicTeam ID after import |
 
 ### Status Values
 
@@ -173,6 +183,9 @@ Also: `Am, Bm, Cm, Dm, Em, Fm, Gm` (minor keys)
   ],
 
   "tags": ["hymn", "classic"],
+  "mediaLinks": [
+    { "url": "https://www.youtube.com/watch?v=example" }
+  ],
   "status": "pending",
   "flags": [],
   "notes": ""

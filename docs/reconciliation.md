@@ -49,8 +49,13 @@ I've inspected the reconciliation issues by hand, and have the following conclus
     * my song id "cornerstone-our-hope-is-built"
     * my song id "love-lifted-me-rowe"
 
+* For any new songs
+    * Use the title, authors, tags, ccli number from my song when creating the new musicteam song
+    * If there are any notes in my song, add them as comments to the new song
+
 * For any matched songs
     * Leave the existing title in musicteam
+    * If there are any notes in my song, add them as comments to the matched song
     * Add any tags found in mine that aren't in musicteam (note that I've updated songs.json a bit to "massage" some of those tags)
     * Don't modify the authors in musicteam, with the following exceptions:
         * my song id "for-your-gift-of-god-the-spirit", add the authors in mine not found in musicteam
@@ -66,3 +71,27 @@ I've inspected the reconciliation issues by hand, and have the following conclus
         * my "come-thou-long-expected-jesus" - Version Label "From Nathan"
         * my "come-thou-long-expected-jesus-extra-ending" - Version Label "From Nathan (extra ending)"
 
+Based on all this, please come up with a data/reconciliation-plan.md which describes what will be done for each song in my library.
+
+
+## Importing
+
+For each song in my library:
+
+* Find or create the corresponding musicteam Song, updating or populating with metadata, and adding comments, according to the above reconciliation rules
+    * If a matched Song was expected but not found, just treat it as a new Song (I might be running this against a local version to try it out)
+* Create a new SongVersion for that Song
+    * set the label to "From Nathan" (unless explicitly specified in the above reconciliation notes)
+    * set the verse order and lyrics
+    * for each mediaLinks:
+        * add a musicteam media link, with title derived from the domain of the link (e.g., "YouTube")
+        * add `musicteam: {song_media_id: ...}` to the media link
+* Upload files that will become sheets
+* Create new SongSheet items for those files
+    * Set the type to our sheet's "type" or "typeOther" (I don't think we have any typeOthers?)
+    * Set auto_verse_order to the inverse of our includesVerseOrder
+    * For the one marked primary on ours, add tag "primary"
+* In my songs.json:
+    * For each song, add `musicteam: {song_id: ..., song_version_id: ...}`
+    * For each sheet add `musicteam: {song_sheet_id: ...}`
+    

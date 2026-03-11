@@ -59,7 +59,24 @@ Setlist
 | `object_id` | TEXT | yes | UUID of uploaded file |
 | `object_type` | TEXT | yes | MIME type: "application/pdf" |
 | `tags` | TEXT[] | no | Sheet-specific tags |
-| `auto_verse_order` | BOOLEAN | no | Default true |
+| `auto_verse_order` | BOOLEAN | no | Default true; false = sheet includes verse order |
+
+**Notes:**
+- **No "primary" sheet concept**: All sheets within a SongVersion are treated equally. There's no designation for a default or primary sheet.
+- **auto_verse_order**: When `true` (default), the system auto-determines verse order. When `false`, the sheet itself includes verse order markings. This is the inverse of our `includesVerseOrder` field in songs.json.
+
+## Comments
+
+| Field | Type | Required | Notes |
+|-------|------|----------|-------|
+| `id` | TEXT | auto | Format: `c:` + UUID |
+| `resource_id` | TEXT | yes | ID of Song or SongVersion |
+| `comment` | TEXT | yes | Comment text |
+| `created_on` | TIMESTAMP | auto | |
+| `creator_id` | TEXT | yes | FK to users |
+
+**Notes:**
+- Comments use a generic `resource_id` field, so they can attach to **either** a Song (`s:...`) or a SongVersion (`sv:...`) based on the ID stored.
 
 ## API Endpoints for Import
 
@@ -104,9 +121,11 @@ POST /songs/{song_id}/versions/{version_id}/sheets
   "key": "G",
   "object_id": "uuid-from-step-3",
   "object_type": "application/pdf",
-  "tags": []
+  "tags": [],
+  "auto_verse_order": false
 }
 ```
+Note: Set `auto_verse_order: false` if the sheet includes verse order markings.
 
 ### Other Useful Endpoints
 
@@ -136,6 +155,8 @@ Roles (import needs `leader` or higher):
 5. **CCLI number optional**: Integer if provided
 6. **One version minimum**: Each song needs at least one version to hold lyrics/sheets
 7. **Key field required for sheets**: Must specify musical key (e.g., "G", "D")
+8. **auto_verse_order is inverted**: Our `includesVerseOrder: true` maps to `auto_verse_order: false`
+9. **No primary sheet**: All sheets are equal; our `isPrimary` field is for local review only
 
 ## Mapping My Library to MusicTeam
 
@@ -145,4 +166,6 @@ Roles (import needs `leader` or higher):
 | Lyrics file | SongVersion.lyrics | Plain text |
 | PDF file | SongSheet | Upload to /objects, link via object_id |
 | Musical key | SongSheet.key | Required field |
+| includesVerseOrder | SongSheet.auto_verse_order | **Inverse**: `includesVerseOrder: true` → `auto_verse_order: false` |
+| isPrimary | (none) | No MusicTeam equivalent; for local review only |
 | Setlist | Setlist | Can import later |
