@@ -209,6 +209,42 @@ Also: `Am, Bm, Cm, Dm, Em, Fm, Gm` (minor keys)
 }
 ```
 
+## musicteam-songs.json (Reconciliation)
+
+Data extracted from the live MusicTeam site for reconciliation:
+
+```json
+{
+  "extractedAt": "2026-03-11T12:00:00Z",
+  "source": "https://musicteam.gutwin.org",
+  "songs": [
+    {
+      "id": "s:550e8400-e29b-41d4-a716-446655440000",
+      "title": "Amazing Grace",
+      "authors": ["John Newton"],
+      "ccliNumber": 1234567,
+      "tags": ["hymn", "classic"],
+      "versions": [
+        {
+          "id": "sv:...",
+          "label": "Default",
+          "tags": ["nathan"],
+          "media": [
+            {
+              "id": "sm:...",
+              "title": "YouTube Video",
+              "url": "https://youtube.com/..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+Note: Media attachments are at the SongVersion level, not Song level.
+
 ## File Locations
 
 ```
