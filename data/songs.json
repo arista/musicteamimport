@@ -1471,7 +1471,6 @@
         }
       ],
       "tags": [
-        "advent"
       ],
       "status": "verified",
       "flags": [],
@@ -6572,9 +6571,8 @@
       "id": "silent-night",
       "folderName": "Silent Night",
       "title": "Silent Night, Holy Night",
-      "ccliNumber": null,
+      "ccliNumber": 27862,
       "authors": [
-        "CCLI Song # 27862"
       ],
       "copyright": "Words: Public Domain",
       "isPublicDomain": true,

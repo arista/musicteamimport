@@ -4,5 +4,6 @@ Project roadmap, immediate plans, todo's
 
 ## Current Focus
 
-Let's start on [reconciliation](./docs/reconciliation.md).  Start with the step of extracting data from musicteam.
+Let's start on [reconciliation](./docs/reconciliation.md).  Now perform the "Local reconciliation analysis" step.
+
 
